@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellany on Simply Me</title>
+    <link>http://hrgo.github.io/tags/miscellany/</link>
+    <description>Recent content in Miscellany on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/miscellany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>생태 마을 디자인 교육 (EDE) 2016</title>
+      <link>http://hrgo.github.io/2016/09/ede-2016/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2016/09/ede-2016/</guid>
+      <description>배경 호주에서의 삶의 질은 충분히 만족스러웠다. 일과 삶의 균형은 적절했고 원하는 것들을 자유롭게 누리며 살고 싶은 모습으로 살고 있었다. 더 이상 바랄게 없었던 하루하루였다.
+그런데. 어느날 부터인가 아침에 회사에 가기가 싫어졌다. 이 좋은 날 왜 여기 앉아 있어야 하지라는 질문은 왜 일을 하며 살아야 하는지를 거쳐, 내가 원하는 것은 무엇이고 나에게 필요한 것은 무엇이며 앞으로 어떻게 살 것인가에 대한 질문으로 꼬리에 꼬리를 물고 이어졌다.
+1년이 넘게 걸린 것 같다. 끊임없이 이어진 질문들에 대한 생각이 어느 정도 정리되었을 때 비로소 미련없이 하던 일을 접고 살던 곳을 정리하고 한국으로 돌아오기로 결정했다.</description>
+    </item>
+    
+  </channel>
+</rss>

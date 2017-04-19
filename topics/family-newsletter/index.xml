@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family Newsletter on Simply Me</title>
+    <link>http://hrgo.github.io/topics/family-newsletter/</link>
+    <description>Recent content in Family Newsletter on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/topics/family-newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[가족신문] 가족신문 4호 - 2014년 10월 발행</title>
+      <link>http://hrgo.github.io/2014/09/family-newletter-04/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2014/09/family-newletter-04/</guid>
+      <description>가족신문 4호 원본 보기
+ </description>
+    </item>
+    
+    <item>
+      <title>[가족신문] 가족신문 3호 - 2014년 7월 발행</title>
+      <link>http://hrgo.github.io/2014/07/family-newletter-03/</link>
+      <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2014/07/family-newletter-03/</guid>
+      <description>가족신문 3호 원본 보기
+ </description>
+    </item>
+    
+    <item>
+      <title>[가족신문] 가족신문 2호 - 2014년 4월 발행</title>
+      <link>http://hrgo.github.io/2014/04/family-newletter-02/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2014/04/family-newletter-02/</guid>
+      <description>가족신문 2호. 원본 보기
+ </description>
+    </item>
+    
+    <item>
+      <title>[가족신문] 가족신문 창간호 - 2014년 1월 발행</title>
+      <link>http://hrgo.github.io/2014/01/family-newletter-01/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2014/01/family-newletter-01/</guid>
+      <description>가족신문 창간호. 원본 보기
+ </description>
+    </item>
+    
+  </channel>
+</rss>

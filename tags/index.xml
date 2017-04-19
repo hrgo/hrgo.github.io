@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simply Me</title>
+    <link>http://hrgo.github.io/tags/</link>
+    <description>Recent content in Tags on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bike</title>
+      <link>http://hrgo.github.io/tags/bike/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/bike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bushwalking</title>
+      <link>http://hrgo.github.io/tags/bushwalking/</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/bushwalking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camping</title>
+      <link>http://hrgo.github.io/tags/camping/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/camping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debbie</title>
+      <link>http://hrgo.github.io/tags/debbie/</link>
+      <pubDate>Mon, 13 Jan 2014 11:55:01 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/debbie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>http://hrgo.github.io/tags/family/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeju</title>
+      <link>http://hrgo.github.io/tags/jeju/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/jeju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea</title>
+      <link>http://hrgo.github.io/tags/korea/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melbourne</title>
+      <link>http://hrgo.github.io/tags/melbourne/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/melbourne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellany</title>
+      <link>http://hrgo.github.io/tags/miscellany/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/miscellany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdoor</title>
+      <link>http://hrgo.github.io/tags/outdoor/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/outdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run</title>
+      <link>http://hrgo.github.io/tags/run/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark Joy</title>
+      <link>http://hrgo.github.io/tags/spark-joy/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/spark-joy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking</title>
+      <link>http://hrgo.github.io/tags/walking/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/walking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

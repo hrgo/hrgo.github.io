@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europe 2015 on Simply Me</title>
+    <link>http://hrgo.github.io/topics/europe-2015/</link>
+    <description>Recent content in Europe 2015 on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/topics/europe-2015/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>현자매 유럽여행 | Overview</title>
+      <link>http://hrgo.github.io/2015/01/europe-01-overview/</link>
+      <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2015/01/europe-01-overview/</guid>
+      <description> 2013년 1월 뉴질랜드 로드트립 이후, 2년만에 네여자 다시 뭉쳤다.
+Overview  제목 : 현자매 유럽여행 동행: 송자매, 언니, 나 (4명) 기간 : 29 Dec 2014 – 01 Dev 2015 (33박 35일) 루트 : 영국 - 프랑스 - 스위스 - 이태리 - 스페인 - 터키  </description>
+    </item>
+    
+  </channel>
+</rss>
