@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bali</title>
+      <link>http://hrgo.github.io/tags/bali/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/bali/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bike</title>
@@ -41,9 +50,18 @@
     <item>
       <title>Bushwalking</title>
       <link>http://hrgo.github.io/tags/bushwalking/</link>
-      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/bushwalking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camping</title>
+      <link>http://hrgo.github.io/tags/camping/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/camping/</guid>
       <description></description>
     </item>
     
@@ -95,7 +113,7 @@
     <item>
       <title>Korea</title>
       <link>http://hrgo.github.io/tags/korea/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/korea/</guid>
       <description></description>
@@ -131,7 +149,7 @@
     <item>
       <title>Outdoor</title>
       <link>http://hrgo.github.io/tags/outdoor/</link>
-      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/outdoor/</guid>
       <description></description>
@@ -179,6 +197,24 @@
       <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한달살기</title>
+      <link>http://hrgo.github.io/tags/%ED%95%9C%EB%8B%AC%EC%82%B4%EA%B8%B0/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/%ED%95%9C%EB%8B%AC%EC%82%B4%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>현자매</title>
+      <link>http://hrgo.github.io/tags/%ED%98%84%EC%9E%90%EB%A7%A4/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/%ED%98%84%EC%9E%90%EB%A7%A4/</guid>
       <description></description>
     </item>
     
