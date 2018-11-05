@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Temp on Simply Me</title>
+    <link>http://hrgo.github.io/tags/book-temp/</link>
+    <description>Recent content in Book Temp on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/book-temp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> [책] 어떻게 나를 지키며 살 것인가 (읽는중)</title>
+      <link>http://hrgo.github.io/book/book-9788990840325/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/book/book-9788990840325/</guid>
+      <description>어떻게 나를 지키며 살 것인가 - 무엇에도 지배당하지 않는 자유로운 삶을 위한 20가지 사유의 힘 | 이인 | 뜨란
+이 책에서 다룬 몇가지 주제, 소유, 존재, 소비 등의 주제는 나 혼자서도 많이 생각해 본 것이었다. 소유보다는 경험을 추구하며 살겠다고 했지만 나도 모르는 사이 월급이란 마약에 길들여진 나 자신을 발견했을 때. 내 삶의 주인으로 살고있다고 생각했지만 선택의 순간에 여전히 용기없는 노예의 생각에 빠져 망설이고 있는 나를 발견했을 때. 그건 나 자신에 대한 배신감이었다.</description>
+    </item>
+    
+  </channel>
+</rss>

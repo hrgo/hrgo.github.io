@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Simply Me</title>
+    <link>http://hrgo.github.io/photo/</link>
+    <description>Recent content in Photos on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>길 위에서</title>
+      <link>http://hrgo.github.io/photo/20150830-%E1%84%80%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%B1%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/photo/20150830-%E1%84%80%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%B1%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5/</guid>
+      <description>길 위에서</description>
+    </item>
+    
+  </channel>
+</rss>

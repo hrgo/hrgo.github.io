@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everyday Life on Simply Me</title>
+    <link>http://hrgo.github.io/tags/everyday-life/</link>
+    <description>Recent content in Everyday Life on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/everyday-life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>제붕이가 준 멘붕</title>
+      <link>http://hrgo.github.io/2018/11/%EC%A0%9C%EB%B6%95%EC%9D%B4%EA%B0%80-%EC%A4%80-%EB%A9%98%EB%B6%95/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2018/11/%EC%A0%9C%EB%B6%95%EC%9D%B4%EA%B0%80-%EC%A4%80-%EB%A9%98%EB%B6%95/</guid>
+      <description>나는 제주에 사는 반백수. 차가 없는 뚜벅이다. 그럼 제붕이는? 제주의 붕붕이. 보통 평상시에는 차를 쓸 일이 없기 때문에 필요할 때 가끔 차를 렌트해서 타는데, 이 친구의 이름이 제붕이다. 물론 빌릴때마다 차종과 넘버가 다르긴 하지만 그냥 나에겐 모두 제붕이다. 얼마전 처음 전기차를 이용한 후 무척 만족했기에 이번에도 전기차를 렌트했다.
+어젯 밤의 일이다. 서울에서 온 손님들과 하루를 보내고 성산 숙소에 도착하니 계기판의 남은 주행거리는 약 50km. 현재 남은 전력으로 50km를 달릴 수 있단 얘기다.</description>
+    </item>
+    
+  </channel>
+</rss>
