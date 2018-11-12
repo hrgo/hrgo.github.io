@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cappadocia on Simply Me</title>
+    <link>http://hrgo.github.io/tags/cappadocia/</link>
+    <description>Recent content in Cappadocia on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/cappadocia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>유럽1탄 #31 이스탄불로</title>
+      <link>http://hrgo.github.io/2015/01/europe-31-to-istanbul/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2015/01/europe-31-to-istanbul/</guid>
+      <description>카파도키아 오전</description>
+    </item>
+    
+    <item>
+      <title>유럽1탄 #30 벌룬 투어. 쿼드바이크. 로즈벨리 투어.</title>
+      <link>http://hrgo.github.io/2015/01/europe-30-turkey-cappadocia/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2015/01/europe-30-turkey-cappadocia/</guid>
+      <description>벌룬투어
+   쿼드 바이크</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hrgo.github.io/2015/01/europe-29-turkey-cappadocia/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2015/01/europe-29-turkey-cappadocia/</guid>
+      <description>영상    카파도키아
+   그린투어</description>
+    </item>
+    
+  </channel>
+</rss>
