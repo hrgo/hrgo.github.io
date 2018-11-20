@@ -773,6 +773,36 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/2012/01/jeju-2012-05/</loc>
+    <lastmod>2012-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2012/01/jeju-2012-04/</loc>
+    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2012/01/jeju-2012-03/</loc>
+    <lastmod>2012-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2012/01/jeju-2012-02/</loc>
+    <lastmod>2012-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2012/01/jeju-2012-01/</loc>
+    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2012/01/%EC%A0%9C%EC%A3%BC%EB%8F%84-overview/</loc>
+    <lastmod>2012-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2011/12/%EB%B6%80%EC%82%B0-%EC%B0%8D%EA%B3%A0-%EC%A7%80%EB%A6%AC%EC%82%B0-4/</loc>
     <lastmod>2011-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -933,6 +963,12 @@
   <url>
     <loc>http://hrgo.github.io/tags/jeju/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/topics/jeju-2012/</loc>
+    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
