@@ -6,10 +6,28 @@
     <description>Recent content in Topics on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hrgo.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Around the Bay 2014</title>
+      <link>http://hrgo.github.io/topics/around-the-bay-2014/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/around-the-bay-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia 2017</title>
+      <link>http://hrgo.github.io/topics/australia-2017/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/australia-2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bali 2018</title>
@@ -35,6 +53,15 @@
       <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/topics/europe-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Southern Tour 2011</title>
+      <link>http://hrgo.github.io/topics/great-southern-tour-2011/</link>
+      <pubDate>Fri, 28 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/great-southern-tour-2011/</guid>
       <description></description>
     </item>
     
@@ -71,6 +98,33 @@
       <pubDate>Tue, 27 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/topics/pusan-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowy River Np</title>
+      <link>http://hrgo.github.io/topics/snowy-river-np/</link>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/snowy-river-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasmania Roadtrip 2014</title>
+      <link>http://hrgo.github.io/topics/tasmania-roadtrip-2014/</link>
+      <pubDate>Sat, 25 Jan 2014 04:11:19 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/tasmania-roadtrip-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torquay 2015</title>
+      <link>http://hrgo.github.io/topics/torquay-2015/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/torquay-2015/</guid>
       <description></description>
     </item>
     

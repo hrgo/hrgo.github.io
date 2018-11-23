@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Australia 2017 on Simply Me</title>
+    <link>http://hrgo.github.io/topics/australia-2017/</link>
+    <description>Recent content in Australia 2017 on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/topics/australia-2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>호주 한달 살기 Overview</title>
+      <link>http://hrgo.github.io/2017/12/australia-2017-overview/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2017/12/australia-2017-overview/</guid>
+      <description>언제 : 15 Dec 2017 - 17 Jan 2017 누가 : 막둥이, 솔이, 나 숙소 : 데비네 집 in Melbourne  개요  2017년 12월부터 한 달간 겨울을 피해 남반구로 피신 멜번에 있는 친구 데비집에서 한 달 체류, 데비의 집과 차를 빌림 기본 3인 체제. 멀고 비싸서 아무도 안 옴 하지만 솔이가 너무너무 좋아했음 마지막에 시드니에 들러 사촌언니 방문 일정 마치고 인도네시아 발리로 이동  이번 호주 한달살기는 친구 찬스를 썼기에 가능했다.</description>
+    </item>
+    
+  </channel>
+</rss>

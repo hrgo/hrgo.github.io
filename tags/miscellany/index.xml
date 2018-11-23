@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellany on Simply Me</title>
+    <link>http://hrgo.github.io/tags/miscellany/</link>
+    <description>Recent content in Miscellany on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/miscellany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>자전거를 타고 생긴 5가지 변화</title>
+      <link>http://hrgo.github.io/2014/11/5-changes-since-i-ride-bike/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2014/11/5-changes-since-i-ride-bike/</guid>
+      <description>자전거는 처음에는 출퇴근길의 스트레스를 덜기 위해 시작했지만 복잡하고 게으른 라이프 스타일을 좀 더 단순하고 활기차게 만들어주는 역할을 톡톡히 하고 있기에 이제 내 생활의 중요한 역할을 하고있다. 자전거는 환경 보호에 기여할 뿐만 아니라 개인의 건강에도 지대한 영향을 미치니 취미 생활로는 최고라고 하겠다.
+풍속 풍향? 나는 원래 날씨에 민감한 여자이지만, 자전거를 타면서 부터 날씨에 더욱 민감해졌다. 한국에 있을 때는 보통 비가 오는지 안오는지만 체크했지만 자전거를 타면서 부터는 날씨의 모든 요소가 중요해졌다. 비가 올지 안올지 날씨는 물론이고 최저 기온 최고 기온을 비롯해 이제는 풍속과 풍향까지 체크한다.</description>
+    </item>
+    
+  </channel>
+</rss>
