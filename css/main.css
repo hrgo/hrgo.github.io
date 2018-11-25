@@ -599,6 +599,7 @@ section.main .content .markdown h2 {
 section.main .content .markdown h3 {
   font-size: 1rem;
   margin-bottom: 1rem;
+  color : #0059abcf;
 }
 section.main .content .markdown h4,
 section.main .content .markdown h5,
