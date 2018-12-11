@@ -54,13 +54,13 @@ body {
   justify-content: flex-start;
   width: 100%;
   min-height: 100%;
-  font-weight: 200;
+  /*font-weight: 200;*/
   letter-spacing: -0.05em;
 font-family: 'Noto Sans KR', sans-serif;
   /*font-family: "Nanum Myeongjo", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "DejaVu Sans", sans-serif; */
  /*  font-family: 'Nanum Myeongjo', serif;
 -webkit-font-smoothing: antialiased;*/
-  color: #111;
+color: #666; 
   line-height: 1.8;
   text-rendering: optimizeLegibility !important;
 }
