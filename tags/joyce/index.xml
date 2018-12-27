@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joyce on Simply Me</title>
+    <link>http://hrgo.github.io/tags/joyce/</link>
+    <description>Recent content in Joyce on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/joyce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[영상] Great Southern Tour Day2</title>
+      <link>http://hrgo.github.io/2011/10/great-southern-tour-vlog-2/</link>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2011/10/great-southern-tour-vlog-2/</guid>
+      <description>    촬영 : 30/10/2011 편집 : 10/12/2011  </description>
+    </item>
+    
+    <item>
+      <title>[영상] 마세돈Macedon 데이트립</title>
+      <link>http://hrgo.github.io/2011/10/macedon-day-trip/</link>
+      <pubDate>Sun, 23 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2011/10/macedon-day-trip/</guid>
+      <description>    촬영 : 23/10/2011 편집 : 09/12/2011 (Windows Movie Maker)  </description>
+    </item>
+    
+    <item>
+      <title>[영상] 단데농Dandanong 데이트립</title>
+      <link>http://hrgo.github.io/2011/10/dandenong-day-trip/</link>
+      <pubDate>Sat, 22 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2011/10/dandenong-day-trip/</guid>
+      <description>    촬영 : 22/10/2011 편집 : 09/12/2011 (Windows Movie Maker)  </description>
+    </item>
+    
+    <item>
+      <title>[영상] 멜번 패밀리 스포츠의 밤</title>
+      <link>http://hrgo.github.io/2011/10/melbourne-family-sports-night/</link>
+      <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2011/10/melbourne-family-sports-night/</guid>
+      <description>    촬영 : 20/10/2011 편집 : 09/12/2011 (Windows Movie Maker)  </description>
+    </item>
+    
+    <item>
+      <title>[영상] 멜번 한바퀴 Around the bay (by Car)</title>
+      <link>http://hrgo.github.io/2011/10/around-the-bay-by-car-vlog/</link>
+      <pubDate>Sun, 16 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2011/10/around-the-bay-by-car-vlog/</guid>
+      <description>    촬영 : 16/10/2011 편집 : 09/12/2011 (Windows Movie Maker)  </description>
+    </item>
+    
+  </channel>
+</rss>
