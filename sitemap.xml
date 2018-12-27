@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/2018/12/europe-2019-01-overview/</loc>
+    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2018/12/%EB%B3%80%ED%95%98%EB%8A%94-%EA%B2%83%EA%B3%BC-%EB%B3%80%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B2%83/</loc>
     <lastmod>2018-12-07T00:00:00+00:00</lastmod>
   </url>
@@ -635,6 +640,16 @@
   <url>
     <loc>http://hrgo.github.io/2015/03/%EC%8B%A0%EB%85%90%EC%9D%80-%EB%B0%94%EB%80%90%EB%8B%A4/</loc>
     <lastmod>2015-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2015/01/europe-29-turkey-cappadocia/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2015/01/europe-28-to-turkey/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1314,7 +1329,7 @@
   
   <url>
     <loc>http://hrgo.github.io/b/</loc>
-    <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1327,6 +1342,12 @@
   <url>
     <loc>http://hrgo.github.io/tags/camping/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/cappadocia/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1345,6 +1366,12 @@
   <url>
     <loc>http://hrgo.github.io/topics/europe-2015/</loc>
     <lastmod>2014-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/topics/europe-2019/</loc>
+    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1530,7 +1557,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1585,6 +1612,12 @@
   <url>
     <loc>http://hrgo.github.io/topics/torquay-2015/</loc>
     <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/turkey/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

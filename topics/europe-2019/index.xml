@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europe 2019 on Simply Me</title>
+    <link>http://hrgo.github.io/topics/europe-2019/</link>
+    <description>Recent content in Europe 2019 on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/topics/europe-2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>유럽2탄 Overview</title>
+      <link>http://hrgo.github.io/2018/12/europe-2019-01-overview/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2018/12/europe-2019-01-overview/</guid>
+      <description>4년 만에 다시 가는 유럽. 지난 번 멤버인 4인 체제로 가려고 했으나 어쩌다 판이 커졌다. 무려 6주간의 이번 여행은 크게 3개의 파트로 나눠진다.
+Part 1 여여여  언제: 01/01/2019 ~ 14/01/2019
+ 어디 : 헝가리, 오스트리아, 독일, 체코, 스페인 누가 : 현자매3 예자매3 (6인)  Part 2 서방들과 함께  언제: 14/01/2019 ~ 29/01/2019
+ 어디 : 스페인, 포르투갈 누가 : 송가족4, 오가족3, 나 (8인)  Part 3 네여자 극기 훈련  언제: 29/01/2019 ~ 10/02/2019</description>
+    </item>
+    
+  </channel>
+</rss>

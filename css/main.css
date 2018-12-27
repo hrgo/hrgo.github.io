@@ -32,7 +32,7 @@ a:active {
 }
 html {
   height: 100%;
-  font-size: 15px;
+  font-size: 14px;
 }
 body {
   display: -webkit-flex;
@@ -56,9 +56,9 @@ body {
   min-height: 100%;
   font-weight: 300;
   letter-spacing: -0.06em;
-font-family: 'Noto Sans KR', sans-serif;
+/*font-family: 'Noto Sans KR', sans-serif; */
   /*font-family: "Nanum Myeongjo", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "DejaVu Sans", sans-serif; */
- /*  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Nanum Myeongjo', serif;
 -webkit-font-smoothing: antialiased;*/
 color: #666; 
   line-height: 1.8;
