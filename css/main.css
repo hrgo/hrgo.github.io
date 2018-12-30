@@ -764,3 +764,18 @@ a:visited {
       border-style: none;
   }
  
+ .markdown a:link {
+    color: #303030;
+    text-decoration: none;
+    border-width: 0 0 1px 0;
+    border-style: none none solid none;
+    border-color: #c0c0c0;
+}
+
+.markdown a:visited {
+    color: #303030;
+    text-decoration: none;
+    border-width: 0 0 1px 0;
+    border-style: none none solid none;
+    border-color: #c0c0c0;
+}
