@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Bali</title>
       <link>http://hrgo.github.io/tags/bali/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/bali/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Camping</title>
       <link>http://hrgo.github.io/tags/camping/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/camping/</guid>
       <description></description>
@@ -300,11 +300,20 @@
     </item>
     
     <item>
-      <title>Outdoor</title>
-      <link>http://hrgo.github.io/tags/outdoor/</link>
+      <title>Outdoors</title>
+      <link>http://hrgo.github.io/tags/outdoors/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hrgo.github.io/tags/outdoor/</guid>
+      <guid>http://hrgo.github.io/tags/outdoors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>http://hrgo.github.io/tags/overview/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/overview/</guid>
       <description></description>
     </item>
     
@@ -390,11 +399,29 @@
     </item>
     
     <item>
+      <title>Tasmania</title>
+      <link>http://hrgo.github.io/tags/tasmania/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/tasmania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thought</title>
       <link>http://hrgo.github.io/tags/thought/</link>
       <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://hrgo.github.io/tags/travel/</link>
+      <pubDate>Sat, 07 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/travel/</guid>
       <description></description>
     </item>
     
