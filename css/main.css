@@ -794,7 +794,7 @@ a:visited {
     overflow:hidden;
     width: 200px;
     height: 200px;
-    filter:opacity(0.5);
+    filter:opacity(.85);
     object-fit: cover;
     border-radius: 2%;
     background-position:center center;
