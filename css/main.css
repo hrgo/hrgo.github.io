@@ -779,3 +779,31 @@ a:visited {
     border-style: none none solid none;
     border-color: #c0c0c0;
 }
+
+.book_square {
+    overflow:hidden;
+    width: 285px;
+    height : 205px;
+    object-fit: cover;
+    /*border-radius: 2%;*/
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+.gallery_square {
+    overflow:hidden;
+    width: 200px;
+    height: 200px;
+    filter:opacity(0.5);
+    object-fit: cover;
+    border-radius: 2%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+
+.gallery_square:hover {
+  filter: none;
+}
+
+ 
