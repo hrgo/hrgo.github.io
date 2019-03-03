@@ -397,7 +397,7 @@ section.main .content .front-matter .meta {
 section.main .content .front-matter .date,
 section.main .content .front-matter .word-count,
 section.main .content .front-matter .reading-time .middot {
-  display: none;
+  display: none2;
 }
 section.main .content .front-matter .middot {
   font-size: 6px;
