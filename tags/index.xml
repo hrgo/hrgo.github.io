@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Australia</title>
+      <link>http://hrgo.github.io/tags/australia/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/tags/australia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Austria</title>
@@ -50,7 +59,7 @@
     <item>
       <title>Book</title>
       <link>http://hrgo.github.io/tags/book/</link>
-      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/book/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Camping</title>
       <link>http://hrgo.github.io/tags/camping/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/camping/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>Debbie</title>
       <link>http://hrgo.github.io/tags/debbie/</link>
-      <pubDate>Mon, 13 Jan 2014 11:55:01 +0000</pubDate>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/debbie/</guid>
       <description></description>
@@ -125,15 +134,6 @@
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/evernote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Everyday Life</title>
-      <link>http://hrgo.github.io/tags/everyday-life/</link>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/everyday-life/</guid>
       <description></description>
     </item>
     
@@ -192,15 +192,6 @@
     </item>
     
     <item>
-      <title>Grim</title>
-      <link>http://hrgo.github.io/tags/grim/</link>
-      <pubDate>Sat, 15 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/grim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grindelwald</title>
       <link>http://hrgo.github.io/tags/grindelwald/</link>
       <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
@@ -230,7 +221,7 @@
     <item>
       <title>I Think</title>
       <link>http://hrgo.github.io/tags/i-think/</link>
-      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/i-think/</guid>
       <description></description>
@@ -275,7 +266,7 @@
     <item>
       <title>Joyce</title>
       <link>http://hrgo.github.io/tags/joyce/</link>
-      <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/joyce/</guid>
       <description></description>
@@ -291,18 +282,9 @@
     </item>
     
     <item>
-      <title>Live a Month</title>
-      <link>http://hrgo.github.io/tags/live-a-month/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/live-a-month/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>London</title>
       <link>http://hrgo.github.io/tags/london/</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/london/</guid>
       <description></description>
@@ -345,29 +327,11 @@
     </item>
     
     <item>
-      <title>Miscellany</title>
-      <link>http://hrgo.github.io/tags/miscellany/</link>
-      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/miscellany/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Munich</title>
       <link>http://hrgo.github.io/tags/munich/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/munich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Story</title>
-      <link>http://hrgo.github.io/tags/my-story/</link>
-      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/my-story/</guid>
       <description></description>
     </item>
     
@@ -381,20 +345,20 @@
     </item>
     
     <item>
-      <title>Outdoor</title>
-      <link>http://hrgo.github.io/tags/outdoor/</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
+      <title>Outdoors</title>
+      <link>http://hrgo.github.io/tags/outdoors/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hrgo.github.io/tags/outdoor/</guid>
+      <guid>http://hrgo.github.io/tags/outdoors/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Outdoors</title>
-      <link>http://hrgo.github.io/tags/outdoors/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Overseas</title>
+      <link>http://hrgo.github.io/tags/overseas/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://hrgo.github.io/tags/outdoors/</guid>
+      <guid>http://hrgo.github.io/tags/overseas/</guid>
       <description></description>
     </item>
     
@@ -431,15 +395,6 @@
       <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Question</title>
-      <link>http://hrgo.github.io/tags/question/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/tags/question/</guid>
       <description></description>
     </item>
     
@@ -536,7 +491,7 @@
     <item>
       <title>Travel</title>
       <link>http://hrgo.github.io/tags/travel/</link>
-      <pubDate>Sat, 07 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/travel/</guid>
       <description></description>
@@ -554,7 +509,7 @@
     <item>
       <title>Uk</title>
       <link>http://hrgo.github.io/tags/uk/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://hrgo.github.io/tags/uk/</guid>
       <description></description>
@@ -624,11 +579,11 @@
     </item>
     
     <item>
-      <title>핑joyce</title>
-      <link>http://hrgo.github.io/tags/%ED%95%91joyce/</link>
-      <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
+      <title>소고</title>
+      <link>http://hrgo.github.io/tags/%EC%86%8C%EA%B3%A0/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://hrgo.github.io/tags/%ED%95%91joyce/</guid>
+      <guid>http://hrgo.github.io/tags/%EC%86%8C%EA%B3%A0/</guid>
       <description></description>
     </item>
     
