@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/b/2019/%EC%97%B4%ED%95%9C-%EA%B3%84%EB%8B%A8/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/p/67/%ED%95%A8%EB%8D%95-%EC%9D%BC%EB%AA%B0/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
@@ -160,6 +165,11 @@
   <url>
     <loc>http://hrgo.github.io/p/12/%ED%94%84%EB%9D%BC%ED%95%98-%EB%B9%84%ED%88%AC%EC%8A%A4-%EC%84%B1%EB%8B%B9/</loc>
     <lastmod>2019-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/01/europe2019-to-czech-prague/</loc>
+    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3270,7 +3280,7 @@
   
   <url>
     <loc>http://hrgo.github.io/kdcs/180/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3378,19 +3388,19 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/books/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3420,7 +3430,13 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/czech/</loc>
+    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3697,6 +3713,12 @@
   <url>
     <loc>http://hrgo.github.io/post/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/prague/</loc>
+    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

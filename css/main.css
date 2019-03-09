@@ -697,19 +697,57 @@ section.main .content .markdown abbr[title] {
   border-bottom: 1px dotted #808080;
 }
 section.main .content .markdown blockquote {
-  padding: .5rem 1rem;
+  /*padding: .5rem 1rem;
   margin: .8rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
+*/
+
+     font-family : Arial;
+       color: #555555;
+padding: .5rem .7rem;
+    margin: .8rem 0;
+    color: #7a7a7a;
+      line-height:1.6;
+  border-left: .25rem solid #e5e5e5;
+ 
+
 }
 section.main .content .markdown blockquote p:last-child {
   margin-bottom: 0;
 }
 @media (min-width: 550px) {
   section.main .content .markdown blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    /*padding-right: 2rem;
+    padding-left: 1.25rem; SH 비기싷어서
+
+ 
+  color: #555555;
+  padding:.5em 20px .5em 30px;
+  border-left:2px solid #8d908f ;
+  line-height:1.6;
+  position: relative;*/
+    color: #555555;
+    font-style: italic;
+  font-family : Arial;
+  padding: .1em 20px .1em 15px;
+  border-left: .4rem solid #c3c1c1 ;
+  line-height:1.6;
+  position: relative;
+ 
+
   }
+/* 따옴표 보여주기
+    blockquote::before1{
+  font-family:Arial;
+  content: "\201C";
+  color:#dbddde;
+  font-size:4em;
+  position: absolute;
+  left: 5px;
+  top:-20px;
+} */
+
 }
 section.main .content .markdown img {
   /*margin: 1.0rem 0;*/
