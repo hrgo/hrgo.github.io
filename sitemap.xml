@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/b/2019/%ED%98%BC%EC%9E%90%EC%97%AC%EC%84%9C-%EA%B4%9C%EC%B0%AE%EC%9D%80-%ED%95%98%EB%A3%A8/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/03/2019-mar-everyday-matters/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
   </url>
@@ -3804,7 +3809,7 @@
   
   <url>
     <loc>http://hrgo.github.io/kdcs/810/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3869,20 +3874,20 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/book/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/book/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/books/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3912,7 +3917,7 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4254,7 +4259,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
