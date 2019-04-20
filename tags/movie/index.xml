@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie on Simply Me</title>
+    <link>http://hrgo.github.io/tags/movie/</link>
+    <description>Recent content in Movie on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hrgo.github.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>영화 국가 부도의 날</title>
+      <link>http://hrgo.github.io/2018/11/movie-default/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2018/11/movie-default/</guid>
+      <description>국가 부도의 날. 불편했던 영화였다. 보는 내내 불편했고 영화관을 나와서도 마음이 한참동안 무거웠다.
+나는 1997년 무엇을 했고 어떻게 IMF를 겪어왔는지 아무런 기억이 없다. 우리집은 어땠었는지도 기억나지 않는다. 난 학교를 다니고 있었고, 나라경제 가정경제가 어땠는지 궁금하지도 알고싶어하지도 않았다. 난 아무런 불편을 느끼지 못했기 때문이다. 나의 부모는 어땠을까. 모를 일이다. 아마도 그 파장이 오기도 힘든 사회계급의 가장 밑바닥에 있던게 아닐까 싶다.
+금 모으기 운동을 생중계 하던 것 외국영화 안보기 운동등을 했던것만 기억이 난다.</description>
+    </item>
+    
+    <item>
+      <title>영화 판도라</title>
+      <link>http://hrgo.github.io/2016/12/movie-pandora/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/2016/12/movie-pandora/</guid>
+      <description>한국에서 혼자 보는 영화는 참 오랜만인거 같은데 영 낯설지가 않은 이유는, 영화는 누구랑 봐도 결국 혼자보기 때문 아닐까.
+전세낸 상영관. 나포함 2명이서 봤다.
+후쿠시마 대지진을 겪었음에도 대한민국의 핵발전소 상태가 어떤지 알려고 하지 않았다. 남의 나라 이야기라고만 생각했는데 영화를 보고 나서 찾아보니 우리나라는 원전 밀집 세계 1위라고 한다. 더이상 지진 안전지대가 아닌 이상 이런 대재앙도 영화속의 일이라고만 할 수 없다.
+그래서인가. 영화에 나를 넣어보면서 몇번 찔끔거렸다. 저런 상황이면 어떨까. 나라면 어떻게 할까.</description>
+    </item>
+    
+  </channel>
+</rss>
