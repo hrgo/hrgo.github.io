@@ -589,12 +589,13 @@ section.main .content .markdown h6 {
   margin-top: 1.75rem;
 }
 section.main .content .markdown h1 {
-  font-size: 1.75rem;
+  font-size: 1.8rem;
   margin-bottom: 2rem;
 }
 section.main .content .markdown h2 {
-  font-size: 1.5rem;
-  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  margin-bottom: .7rem;
+     
 }
 section.main .content .markdown h3 {
   font-size: 1.1rem;
