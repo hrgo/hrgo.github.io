@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Australia 1999</title>
+      <link>http://hrgo.github.io/topics/australia-1999/</link>
+      <pubDate>Sat, 02 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/australia-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Australia 2017</title>
       <link>http://hrgo.github.io/topics/australia-2017/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
@@ -84,11 +93,20 @@
     </item>
     
     <item>
-      <title>Europe 2019</title>
-      <link>http://hrgo.github.io/topics/europe-2019/</link>
+      <title>Europe 2019 Part 1</title>
+      <link>http://hrgo.github.io/topics/europe-2019-part-1/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hrgo.github.io/topics/europe-2019/</guid>
+      <guid>http://hrgo.github.io/topics/europe-2019-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe 2019 Part 2</title>
+      <link>http://hrgo.github.io/topics/europe-2019-part-2/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hrgo.github.io/topics/europe-2019-part-2/</guid>
       <description></description>
     </item>
     
