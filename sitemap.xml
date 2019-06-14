@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/b/2019/%EC%95%84%EB%AC%B4%ED%8A%BC-%ED%8A%B8%EC%9C%84%ED%84%B0/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/b/2019/%EC%8B%AC%ED%94%8C%ED%95%98%EA%B2%8C-%EC%82%B0%EB%8B%A4/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +15,11 @@
   <url>
     <loc>http://hrgo.github.io/2019/06/%EB%AA%A8%EC%88%9C%EB%90%9C-%EC%8B%A0%EB%85%90/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/06/loss-and-share/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4269,19 +4279,19 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/books/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4311,7 +4321,7 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4581,7 +4591,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/outdoors/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4677,7 +4687,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
