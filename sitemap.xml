@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/2019/06/%ED%8E%B8%EA%B2%AC%EB%8F%84-%EB%91%90%EB%A0%A4%EC%9B%80%EB%8F%84-%EC%97%86%EC%9D%B4/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/06/%EB%AA%A8%EB%93%A0-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%8A%94-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%B4%EB%8B%A4/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
@@ -4298,14 +4303,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/book/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/book/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4335,7 +4340,7 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4628,14 +4633,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/overseas/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/overseas/</loc>
+    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/overseas/</loc>
-    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/overseas/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4677,7 +4682,7 @@
   
   <url>
     <loc>http://hrgo.github.io/post/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4713,7 +4718,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
