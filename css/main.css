@@ -913,3 +913,17 @@ div.footer .container .icons {
   flex-grow: 0.5;
   text-align: end;
 }
+
+
+figure {
+  margin : 0 0 15px 0;
+}
+
+figure figcaption {
+    font-size: 13px;
+    color: #5c5c5c;
+    word-break: break-word;
+    min-height: 20px;
+    caption-side: bottom;
+    text-align: center;
+}
