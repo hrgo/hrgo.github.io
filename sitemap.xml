@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/2019/06/%EB%82%B4%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B2%83-ver.2005/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/06/%EB%82%98%EC%9D%98-%EC%9E%90%EC%A0%84%EA%B1%B0-%EB%9D%BC%EC%9D%B4%ED%94%84/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -3358,7 +3363,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/2013/02/%EB%91%90%EC%97%AC%EC%9E%90-%EA%B2%8C%EC%9C%BC%EB%A5%B8-%EB%B6%80%EC%89%AC-%EC%BA%A0%ED%95%91-lake-eildon/</loc>
+    <loc>http://hrgo.github.io/2013/02/%EB%91%90-%EC%97%AC%EC%9E%90-%EA%B2%8C%EC%9C%BC%EB%A5%B8-%EB%B6%80%EC%89%AC-%EC%BA%A0%ED%95%91-lake-eildon/</loc>
     <lastmod>2013-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -4178,6 +4183,11 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/2002/04/%EB%8D%B8%EB%A6%AC%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4-%EC%95%B5%EC%BD%9C-%EC%BD%98%EC%84%9C%ED%8A%B8/</loc>
+    <lastmod>2002-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2002/02/2002-japan-04/</loc>
     <lastmod>2002-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -4205,6 +4215,51 @@
   <url>
     <loc>http://hrgo.github.io/2002/02/2002-japan-overview/</loc>
     <lastmod>2002-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/12/%EB%8D%B8%EB%A6%AC%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%ED%85%8C%EB%9F%AC-%EC%BD%98%EC%84%9C%ED%8A%B8/</loc>
+    <lastmod>2001-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/11/%EB%8D%B8%EB%A6%AC%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4-d-%EC%BD%98%EC%84%9C%ED%8A%B8/</loc>
+    <lastmod>2001-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/08/2001-%EC%A4%91%EA%B5%AD-1-%EC%B6%9C%EA%B5%AD-%EB%B6%81%EA%B2%BD/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/08/china-2001-02/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/08/china-2001-03/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/08/china-2001-04/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/08/china-2001-overview/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/06/%EC%A0%95%EB%8F%99%EC%A7%84.%EA%B0%95%EB%A6%89-%EA%B2%BD%ED%8F%AC%EB%8C%80.%EC%86%8D%EC%B4%88-%EB%82%99%EC%82%B0%EC%82%AC/</loc>
+    <lastmod>2001-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2001/06/%EC%B6%94%EC%95%94-%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1/</loc>
+    <lastmod>2001-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4333,14 +4388,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/book/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/book/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4358,7 +4413,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/camping/</loc>
-    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4371,6 +4426,18 @@
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
     <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/china/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/topics/china-2001/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4401,6 +4468,12 @@
   <url>
     <loc>http://hrgo.github.io/topics/debbie-2016/</loc>
     <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/delispice/</loc>
+    <lastmod>2002-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4597,12 +4670,6 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/melbourn/</loc>
-    <lastmod>2011-12-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/tags/melbourne/</loc>
     <lastmod>2016-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4669,14 +4736,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/overseas/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/overseas/</loc>
+    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/overseas/</loc>
-    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/overseas/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4718,7 +4785,7 @@
   
   <url>
     <loc>http://hrgo.github.io/post/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4760,7 +4827,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4957,6 +5024,12 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/tags/%EA%B2%BD%ED%97%98/</loc>
+    <lastmod>2016-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/tags/%EA%B5%90%EC%9C%A1%ED%95%99/</loc>
     <lastmod>2016-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -5084,7 +5157,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/%ED%98%84%EC%9E%90%EB%A7%A4/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
