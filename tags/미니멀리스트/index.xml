@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>기술과학 on Simply Me</title>
-    <link>http://hrgo.github.io/tags/%EA%B8%B0%EC%88%A0%EA%B3%BC%ED%95%99/</link>
-    <description>Recent content in 기술과학 on Simply Me</description>
+    <title>미니멀리스트 on Simply Me</title>
+    <link>http://hrgo.github.io/tags/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8/</link>
+    <description>Recent content in 미니멀리스트 on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hrgo.github.io/tags/%EA%B8%B0%EC%88%A0%EA%B3%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hrgo.github.io/tags/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>안녕, 동백숲 작은 집 (하얼과 페달, 2018)</title>
-      <link>http://hrgo.github.io/2019/06/%EC%95%88%EB%85%95-%EB%8F%99%EB%B0%B1%EC%88%B2-%EC%9E%91%EC%9D%80-%EC%A7%91/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://hrgo.github.io/2019/06/%EC%95%88%EB%85%95-%EB%8F%99%EB%B0%B1%EC%88%B2-%EC%9E%91%EC%9D%80-%EC%A7%91/</guid>
-      <description>제목 : 안녕, 동백숲 작은 집 (햇빛과 샘물, 화덕으로 빚은 에코라이프)
- 저자 : 하얼과 페달
- 출판사 : 열매하나
- 날짜 : 16/06/2019
-  이 책은 숲속에 사는 하얼과 페달이라는 한 젊은 부부의 이야기다. 한국에 돌아와 한창 다른 삶의 방식을 찾던 때 큰 귀감이 되었던 친구들이고, 그래서 그들의 친구와 나의 친구는 많이 겹친다. 우리는 생태적인 삶을 추구하는 네트워크 안에 있으며, 열매하나도 오하이오도 모두 그 네트워크 안에 있는 동지들이다.</description>
-    </item>
     
     <item>
       <title>일주일 안에 80퍼센트 버리는 기술 (후데코, 2018)</title>
