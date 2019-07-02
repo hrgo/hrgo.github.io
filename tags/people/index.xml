@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/tags/people/</link>
     <description>Recent content in People on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Tue, 06 Dec 2011 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/people/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>굿바이 박은혜</title>
       <link>http://hrgo.github.io/2011/12/goodbye-enhye/</link>
       <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2011/12/goodbye-enhye/</guid>
       <description>&lt;p&gt;이 땅에서 참 여러번 사람을 떠나 보냈다.
 가족들을 보낼 때 가장 마음이 아팠고 나머진 머.. 그냥 그랬다.
@@ -81,7 +83,7 @@
       <title>My housemate Emma</title>
       <link>http://hrgo.github.io/2010/05/my-housemate-emma/</link>
       <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2010/05/my-housemate-emma/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3537/4564666101_cf746502ff.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -99,7 +101,7 @@
       <title>강진희</title>
       <link>http://hrgo.github.io/2010/04/%EA%B0%95%EC%A7%84%ED%9D%AC/</link>
       <pubDate>Wed, 14 Apr 2010 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2010/04/%EA%B0%95%EC%A7%84%ED%9D%AC/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4060/4628732085_6ae79aee5e.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 

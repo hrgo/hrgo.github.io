@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/topics/europe-2019/</link>
     <description>Recent content in Europe 2019 on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/topics/europe-2019/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>여자 여섯의 여행 #01 서울에서 부다페스트로 24시간 이동</title>
       <link>http://hrgo.github.io/2019/01/europe2019-to-budapest/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-to-budapest/</guid>
       <description>
 
@@ -67,7 +69,7 @@
       <title>여자 여섯의 여행 #02 하이 부다페스트</title>
       <link>http://hrgo.github.io/2019/01/europe2019-budapest-01/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-budapest-01/</guid>
       <description>
 
@@ -129,7 +131,7 @@
       <title>여자 여섯의 여행 #03 칼바람 속 온천, 야경</title>
       <link>http://hrgo.github.io/2019/01/europe2019-budapest-02/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-budapest-02/</guid>
       <description>
 
@@ -196,7 +198,7 @@
       <title>여자 여섯의 여행 #04 기차 타고 국경 넘어 오스트리아로</title>
       <link>http://hrgo.github.io/2019/01/europe2019-budapest-to-vienne/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-budapest-to-vienne/</guid>
       <description>
 
@@ -291,7 +293,7 @@
       <title>여자 여섯의 여행 #05 게을러도 괜찮아, 빈</title>
       <link>http://hrgo.github.io/2019/01/europe2019-austria-vienne-01/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-austria-vienne-01/</guid>
       <description>
 
@@ -357,7 +359,7 @@
       <title>여자 여섯의 여행 #06 렌트카 빌려타고 오버트라운으로</title>
       <link>http://hrgo.github.io/2019/01/europe2019-austria-vienne-to-hallstatt/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-austria-vienne-to-hallstatt/</guid>
       <description>
 
@@ -448,7 +450,7 @@
       <title>여자 여섯의 여행 #07 겨울 왕국 오버트라운</title>
       <link>http://hrgo.github.io/2019/01/europe2019-austria-hallstatt/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-austria-hallstatt/</guid>
       <description>
 
@@ -518,7 +520,7 @@
       <title>여자 여섯의 여행 #08 폭설 속 개고생</title>
       <link>http://hrgo.github.io/2019/01/europe2019-austria-hallstatt-to-salzburg/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-austria-hallstatt-to-salzburg/</guid>
       <description>
 
@@ -606,7 +608,7 @@
       <title>여자 여섯의 여행 #09 맹숭맹숭 잘츠부르크</title>
       <link>http://hrgo.github.io/2019/01/europe2019-austria-salzburg/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-austria-salzburg/</guid>
       <description>
 
@@ -679,7 +681,7 @@
       <title>여자 여섯의 여행 #10 짧고 굵게, 독일 뮌헨</title>
       <link>http://hrgo.github.io/2019/01/europe2019-germany-munich/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2019/01/europe2019-germany-munich/</guid>
       <description>
 

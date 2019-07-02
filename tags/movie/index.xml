@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/tags/movie/</link>
     <description>Recent content in Movie on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>영화 국가 부도의 날</title>
       <link>http://hrgo.github.io/2018/11/movie-default/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2018/11/movie-default/</guid>
       <description>&lt;p&gt;국가 부도의 날. 불편했던 영화였다. 보는 내내 불편했고 영화관을 나와서도 마음이 한참동안 무거웠다.&lt;/p&gt;
 
@@ -59,7 +61,7 @@
       <title>영화 판도라</title>
       <link>http://hrgo.github.io/2016/12/movie-pandora/</link>
       <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2016/12/movie-pandora/</guid>
       <description>&lt;p&gt;한국에서 혼자 보는 영화는 참 오랜만인거 같은데 영 낯설지가 않은 이유는, 영화는 누구랑 봐도 결국 혼자보기 때문 아닐까.&lt;/p&gt;
 

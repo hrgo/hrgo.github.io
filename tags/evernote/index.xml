@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/tags/evernote/</link>
     <description>Recent content in Evernote on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Wed, 17 Sep 2014 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>에버노트로 할 일 관리? 한 일 관리!</title>
       <link>http://hrgo.github.io/2014/09/evernote-gtd/</link>
       <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2014/09/evernote-gtd/</guid>
       <description>&lt;p&gt;오거나이즈병(?) 중증 환자로써 에버노트를 활용한 GTD를 많이 고민했었다. 외국의 여러 사례를 참고해서 에버노트로 GTD 시스템을 꾸려보려 했다. 노트북을 생성하고, 태그를 만들고, 할 일마다 한 줄 짜리 노트를 만들고, 태그로 컨텍스트 관리하고.. 그런데 왠지 억지스럽고 too much란 느낌이 들었다. 할 일이 관리되는 느낌이 아니라 오히려 더 정신없고 clutter 된다고 할까. 내가 서툴어서 그랬는지 모르겠지만, 이건 시간을 잘 활용하려고 하는 시스템인데 오히려 시간이 낭비되고 있다는 느낌을 버릴 수 없었다. 고민이 시작되었다.&lt;/p&gt;
 
@@ -43,7 +45,7 @@
       <title>개인 정보 시스템 에버노트 · 노트북 분류</title>
       <link>http://hrgo.github.io/2014/05/my-evernote-notebooks/</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2014/05/my-evernote-notebooks/</guid>
       <description>
 

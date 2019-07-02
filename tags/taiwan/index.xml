@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/tags/taiwan/</link>
     <description>Recent content in Taiwan on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Tue, 29 Dec 2015 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>2015 대만</title>
       <link>http://hrgo.github.io/2015/12/taiwan-2015/</link>
       <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/12/taiwan-2015/</guid>
       <description>
 

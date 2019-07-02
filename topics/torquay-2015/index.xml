@@ -5,7 +5,9 @@
     <link>http://hrgo.github.io/topics/torquay-2015/</link>
     <description>Recent content in Torquay 2015 on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Sat, 20 Jun 2015 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/topics/torquay-2015/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Torquay 자전거 여행 Overview</title>
       <link>http://hrgo.github.io/2015/06/torquay-0/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/06/torquay-0/</guid>
       <description>
 
@@ -42,7 +44,7 @@
       <title>Torquay 자전거 여행 #1 Federation Trail</title>
       <link>http://hrgo.github.io/2015/06/torquay-1/</link>
       <pubDate>Sun, 21 Jun 2015 12:11:19 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/06/torquay-1/</guid>
       <description>
 
@@ -95,7 +97,7 @@
       <title>Torquay 자전거 여행 #2 To Torquay</title>
       <link>http://hrgo.github.io/2015/06/torquay-2/</link>
       <pubDate>Sun, 21 Jun 2015 18:11:19 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/06/torquay-2/</guid>
       <description>
 
@@ -187,7 +189,7 @@
       <title>Torquay 자전거 여행 #3 From Torquay</title>
       <link>http://hrgo.github.io/2015/06/torquay-3/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/06/torquay-3/</guid>
       <description>
 
@@ -278,7 +280,7 @@
       <title>Torquay 자전거 여행 #4 장비</title>
       <link>http://hrgo.github.io/2015/06/torquay-4/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/2015/06/torquay-4/</guid>
       <description>
 
