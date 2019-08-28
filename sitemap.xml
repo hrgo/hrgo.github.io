@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/2019/08/%EC%95%84%EB%AC%B4%ED%8A%BC-%EC%88%A0/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/08/%EC%A7%80%EA%B8%88%EC%9D%B4-%EC%95%84%EB%8B%88%EB%A9%B4-%EC%95%88%EB%90%A0-%EA%B2%83-%EA%B0%99%EC%95%84%EC%84%9C/</loc>
+    <lastmod>2019-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/08/europe-2019-vlog-d-1/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/08/%EB%82%98%EC%9D%98-%EB%88%88%EB%B6%80%EC%8B%A0-%EC%B9%9C%EA%B5%AC/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/2019/08/%EB%8B%88%EC%B2%B4%EC%9D%98-%EC%9D%B8%EA%B0%84%ED%95%9C/</loc>
+    <loc>http://hrgo.github.io/2019/08/%EB%8B%88%EC%B2%B4%EC%9D%98-%EC%9D%B8%EA%B0%84%ED%95%99/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -4650,7 +4665,7 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4680,7 +4695,7 @@
   
   <url>
     <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4759,6 +4774,12 @@
   <url>
     <loc>http://hrgo.github.io/topics/europe-2019-part-2/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/europe2019/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5034,7 +5055,7 @@
   
   <url>
     <loc>http://hrgo.github.io/post/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5076,7 +5097,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5220,7 +5241,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/vlog/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5256,7 +5277,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/youtube/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5340,7 +5361,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/%EB%AC%B8%ED%95%99/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5418,7 +5439,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/%EC%97%90%EC%84%B8%EC%9D%B4/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
