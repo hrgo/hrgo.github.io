@@ -23,13 +23,33 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/2019/09/%ED%98%84%EB%A7%89%EB%91%A5-%EC%9A%B0%EC%BF%A8%EB%A0%90%EB%A0%88/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/09/%EC%98%81%EC%83%81-%ED%98%84%EC%9E%90%EB%A7%A4-%EC%9A%B0%EC%BF%A8%EB%A0%90%EB%A0%88-let-it-be/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/09/%ED%98%84%EC%9E%90%EB%A7%A4-%EB%9D%BC%EC%9D%B4%EB%94%A9/</loc>
     <lastmod>2019-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/2019/09/%EC%98%81%EC%83%81-%EC%86%94%EC%9D%B4-%EC%9A%B4%EB%8F%99%ED%9A%8C/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2019/09/%ED%98%84%EA%B0%80%EC%A1%B1-%EB%8F%84%EB%B4%89%EC%82%B0/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/09/%EC%A3%BC-bros-%EC%A4%91%EB%9E%91%EC%B2%9C-%EB%9D%BC%EC%9D%B4%EB%94%A9/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,6 +60,11 @@
   <url>
     <loc>http://hrgo.github.io/2019/09/%EC%86%94%EC%9D%B4%EC%9D%98-%ED%8F%89%EB%B2%94%ED%95%9C-%ED%95%98%EB%A3%A8/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/09/%EC%98%81%EC%83%81-%ED%98%84%EA%B0%80%EC%A1%B1-%EB%B2%8C%EC%B4%88/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -5289,6 +5314,12 @@
   <url>
     <loc>http://hrgo.github.io/tags/uk/</loc>
     <lastmod>2015-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/uke/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
