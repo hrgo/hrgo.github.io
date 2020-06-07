@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/2020/05/%EC%9E%90%EC%A0%84%EA%B1%B0%EB%94%B0%EB%A6%89%EC%9D%B4-%EC%B6%9C%ED%87%B4%EA%B7%BC/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2020/04/%EC%B2%B4%EB%A5%98%EC%A7%80-%EB%B3%80%EA%B2%BD-%EC%8B%A0%EA%B3%A0/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +55,11 @@
   <url>
     <loc>http://hrgo.github.io/2020/03/%ED%98%84%EA%B0%80%EC%A1%B1-%EA%B0%80%EC%A1%B1-%EB%93%B1%EB%B0%98-%EC%82%AC%ED%8C%A8%EC%82%B0/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2020/03/2020-%EC%83%9D%ED%8C%8C/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4898,10 +4908,6 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/1/01/</loc>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/topics/around-the-bay-2014/</loc>
     <lastmod>2014-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4962,14 +4968,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/book/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/book/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/book/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5269,7 +5275,7 @@
   
   <url>
     <loc>http://hrgo.github.io/tags/miscellany/</loc>
-    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5310,14 +5316,14 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/categories/overseas/</loc>
-    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/tags/overseas/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/tags/overseas/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/categories/overseas/</loc>
+    <lastmod>2004-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5359,7 +5365,7 @@
   
   <url>
     <loc>http://hrgo.github.io/post/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5401,7 +5407,7 @@
   
   <url>
     <loc>http://hrgo.github.io/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
