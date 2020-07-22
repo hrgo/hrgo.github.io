@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yewon on Simply Me</title>
+    <title>yewon on Simply Me</title>
     <link>http://hrgo.github.io/tags/yewon/</link>
-    <description>Recent content in Yewon on Simply Me</description>
+    <description>Recent content in yewon on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
@@ -21,9 +20,8 @@
       <guid>http://hrgo.github.io/2019/09/%EB%94%B8%EA%B8%B0-%EC%83%9D%EC%9D%BC-%ED%8C%8C%ED%8B%B0/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/7XC2zVklqTY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7XC2zVklqTY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
 
 &lt;ul&gt;
 &lt;li&gt;촬영 : 8/9/2019 (Xiaomi A1)&lt;/li&gt;

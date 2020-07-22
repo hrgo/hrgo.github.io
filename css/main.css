@@ -927,3 +927,10 @@ figure figcaption {
     caption-side: bottom;
     text-align: center;
 }
+
+footer#copyright_s{
+    font-size: 1.0rem;
+    font-weight: 300;
+    color: #949494;
+ 
+}
