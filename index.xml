@@ -7,7 +7,7 @@
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>http://hrgo.github.io/post/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/post/</guid>
       <description></description>
@@ -74,7 +74,12 @@
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://hrgo.github.io/2016/04/something-of-myself/&#34;&gt;Something of Myself&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.naver.com/comni&#34;&gt;blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;currently-doing&#34;&gt;Currently doing&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;단순한 삶 속에서 풍요 누리기&lt;/li&gt;
+&lt;li&gt;삶에 도움이 될법한 것들 배우기&lt;/li&gt;
+&lt;li&gt;예체능 활동으로 삶을 풍요롭게 하기&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;

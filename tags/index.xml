@@ -7,10 +7,19 @@
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>miscellany</title>
+      <link>http://hrgo.github.io/tags/miscellany/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/miscellany/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bike</title>
@@ -27,15 +36,6 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%ED%98%84%EC%9E%90%EB%A7%A4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miscellany</title>
-      <link>http://hrgo.github.io/tags/miscellany/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/miscellany/</guid>
       <description></description>
     </item>
     
