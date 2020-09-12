@@ -75,14 +75,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://hrgo.github.io/2016/04/something-of-myself/&#34;&gt;Something of Myself&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;currently-doing&#34;&gt;Currently doing&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;about-site&#34;&gt;About Site&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;단순한 삶 속에서 풍요 누리기&lt;/li&gt;
-&lt;li&gt;삶에 도움이 될법한 것들 배우기&lt;/li&gt;
-&lt;li&gt;예체능 활동으로 삶을 풍요롭게 하기&lt;/li&gt;
+&lt;li&gt;latest-3-posts-only-blog&lt;/li&gt;
+&lt;li&gt;Powered by &lt;!-- raw HTML omitted --&gt;Hugo&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -143,7 +142,8 @@ etc.&lt;/li&gt;
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/front/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/R-kFisSOi6emwdKg7aQ2-Uw_lC1SJRxneymyMt-4aZy4uWISTOlYL-eCD79SQZ25AuykqiWxP8xwYdoYrow=s440-rw&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
