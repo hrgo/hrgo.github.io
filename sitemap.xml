@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrgo.github.io/categories/book/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/categories/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/post/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2020/12/%EC%99%9C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2020/12/2020-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EA%B0%80%EC%A1%B1-%EC%98%A4%EB%9D%BD%EA%B4%80/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/tags/miscellany/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/2020/10/2020%EB%85%84-10%EC%9B%94-%EC%9E%90%EC%A0%84%EA%B1%B0-%EB%9D%BC%EC%9D%B4%ED%94%84/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -10,26 +55,6 @@
   <url>
     <loc>http://hrgo.github.io/tags/miscellany-bike/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/post/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/tags/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/tags/miscellany/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -165,16 +190,6 @@
   <url>
     <loc>http://hrgo.github.io/2020/04/cox-ck87/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/categories/book/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/categories/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -335,6 +350,11 @@
   <url>
     <loc>http://hrgo.github.io/2020/01/%EC%84%A0%EC%9E%90%EB%A0%B9/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/2019/12/christmas-2019/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -704,11 +724,6 @@
   
   <url>
     <loc>http://hrgo.github.io/2019/07/wando-bike-touring/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
   

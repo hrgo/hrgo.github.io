@@ -7,10 +7,28 @@
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
-    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>경영</title>
+      <link>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miscellany</title>
+      <link>http://hrgo.github.io/tags/miscellany/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/miscellany/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>miscellany, bike</title>
@@ -18,15 +36,6 @@
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/miscellany-bike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miscellany</title>
-      <link>http://hrgo.github.io/tags/miscellany/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/miscellany/</guid>
       <description></description>
     </item>
     
@@ -315,15 +324,6 @@
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>경영</title>
-      <link>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/%EA%B2%BD%EC%98%81/</guid>
       <description></description>
     </item>
     
