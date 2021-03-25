@@ -79,7 +79,7 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;about-site&#34;&gt;About Site&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;latest-3-posts-only-blog&lt;/li&gt;
+&lt;li&gt;latest-5-posts-only-blog&lt;/li&gt;
 &lt;li&gt;Powered by &lt;!-- raw HTML omitted --&gt;Hugo&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -134,6 +134,15 @@ etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Updated 17/01/2020, from Korea, Korea&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Notice</title>
+      <link>http://hrgo.github.io/notice/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/notice/</guid>
+      <description></description>
     </item>
     
     <item>
