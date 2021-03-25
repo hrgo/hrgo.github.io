@@ -7,10 +7,37 @@
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>jeju</title>
+      <link>http://hrgo.github.io/tags/jeju/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/jeju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>korea</title>
+      <link>http://hrgo.github.io/tags/korea/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>http://hrgo.github.io/tags/outdoors/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/outdoors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bike</title>
@@ -54,15 +81,6 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%ED%98%84%EC%9E%90%EB%A7%A4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jeju</title>
-      <link>http://hrgo.github.io/tags/jeju/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/jeju/</guid>
       <description></description>
     </item>
     
@@ -135,24 +153,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/bushwalking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>korea</title>
-      <link>http://hrgo.github.io/tags/korea/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/korea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outdoors</title>
-      <link>http://hrgo.github.io/tags/outdoors/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/outdoors/</guid>
       <description></description>
     </item>
     
@@ -396,15 +396,6 @@
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%EA%B2%BD%EC%A0%9C%ED%95%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>경저학</title>
-      <link>http://hrgo.github.io/tags/%EA%B2%BD%EC%A0%80%ED%95%99/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/%EA%B2%BD%EC%A0%80%ED%95%99/</guid>
       <description></description>
     </item>
     
