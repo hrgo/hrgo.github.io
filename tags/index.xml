@@ -7,10 +7,46 @@
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://hrgo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>기록</title>
+      <link>http://hrgo.github.io/tags/%EA%B8%B0%EB%A1%9D/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/%EA%B8%B0%EB%A1%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bike</title>
+      <link>http://hrgo.github.io/tags/bike/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/bike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://hrgo.github.io/tags/blog/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whyi</title>
+      <link>http://hrgo.github.io/tags/whyi/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/whyi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>jeju</title>
@@ -36,15 +72,6 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/outdoors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bike</title>
-      <link>http://hrgo.github.io/tags/bike/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/bike/</guid>
       <description></description>
     </item>
     
@@ -121,33 +148,6 @@
     </item>
     
     <item>
-      <title>vlog</title>
-      <link>http://hrgo.github.io/tags/vlog/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/vlog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yesol</title>
-      <link>http://hrgo.github.io/tags/yesol/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/yesol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>http://hrgo.github.io/tags/youtube/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bushwalking</title>
       <link>http://hrgo.github.io/tags/bushwalking/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -159,36 +159,9 @@
     <item>
       <title>everyday-matters</title>
       <link>http://hrgo.github.io/tags/everyday-matters/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/everyday-matters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>uke</title>
-      <link>http://hrgo.github.io/tags/uke/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/uke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yewon</title>
-      <link>http://hrgo.github.io/tags/yewon/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/yewon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>europe2019</title>
-      <link>http://hrgo.github.io/tags/europe2019/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/europe2019/</guid>
       <description></description>
     </item>
     
@@ -463,15 +436,6 @@
     </item>
     
     <item>
-      <title>olle</title>
-      <link>http://hrgo.github.io/tags/olle/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/olle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>미니멀리스트</title>
       <link>http://hrgo.github.io/tags/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
@@ -495,15 +459,6 @@
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%EC%84%9C%EC%96%91%EC%B2%A0%ED%95%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yejin</title>
-      <link>http://hrgo.github.io/tags/yejin/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/yejin/</guid>
       <description></description>
     </item>
     
@@ -661,11 +616,11 @@
     </item>
     
     <item>
-      <title>bali</title>
-      <link>http://hrgo.github.io/tags/bali/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <title>yesol</title>
+      <link>http://hrgo.github.io/tags/yesol/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/bali/</guid>
+      <guid>http://hrgo.github.io/tags/yesol/</guid>
       <description></description>
     </item>
     
@@ -675,6 +630,15 @@
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/%EC%82%AC%ED%9A%8C%ED%95%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bali</title>
+      <link>http://hrgo.github.io/tags/bali/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/bali/</guid>
       <description></description>
     </item>
     
@@ -702,15 +666,6 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/australia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>melbourne-family</title>
-      <link>http://hrgo.github.io/tags/melbourne-family/</link>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/melbourne-family/</guid>
       <description></description>
     </item>
     
@@ -760,20 +715,20 @@
     </item>
     
     <item>
-      <title>melbourne</title>
-      <link>http://hrgo.github.io/tags/melbourne/</link>
-      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/tags/melbourne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>taiwan</title>
       <link>http://hrgo.github.io/tags/taiwan/</link>
       <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
       <guid>http://hrgo.github.io/tags/taiwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>melbourne</title>
+      <link>http://hrgo.github.io/tags/melbourne/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
+      <author>k8hyun@gmail.com (흐름)</author>
+      <guid>http://hrgo.github.io/tags/melbourne/</guid>
       <description></description>
     </item>
     

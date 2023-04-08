@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "ㅈ"
+					},
+					"AgAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABFAQAAAAAAAAMAAADssIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAQAAAAAAAEUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"",
+					null,
+					"AQAAAEQBAAAAAAAARQEAAAAAAAADAAAA44WI",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAQAAAAAAAEUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADIAQAAAAAAAMgBAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "Searching 5484 files for \"2017-03-05\"\n\n/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md:\n    1  ---\n    2: date : 2017-03-05 \n    3  title : 겨울이네 컴퓨터 OS Windows 10 재설치\n    4  ---\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "---\ndate : 2017-03-05 \ntitle : 겨울이네 컴퓨터 OS Windows 10 재설치\n---\n\n* USB 를 넣고 윈도우10 재설치. (모든 파일 삭제 옵션 선택)\n* 설치에 1시간 정도 소요, (느림) wifi password 를 가장 먼저 물어봄\n* Microsoft 사용자 등록 skip. Yejin  1115 로 등록\n* 로컬 사용자 추가. yejins/yejins, yewons/Ekfrl, ddshsage/ddshsage\n* 한글2010설치 (from Util folder)\n* Office 365 에 로그인해서 설치 하였으나 구독 인증 과정에서 문제 발생.\n* L365 프린터 설치.",
+			"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
+			"file_size": 535,
+			"file_write_time": 132782678760000000,
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "201231-왜-일하는가.md",
+			"settings":
+			{
+				"buffer_size": 3657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n----"
+					},
+					"BwAAABINAAAAAAAAEw0AAAAAAAAAAAAAEw0AAAAAAAAUDQAAAAAAAAAAAAAUDQAAAAAAABUNAAAAAAAAAAAAABUNAAAAAAAAFg0AAAAAAAAAAAAAFg0AAAAAAAAXDQAAAAAAAAAAAAAXDQAAAAAAABgNAAAAAAAAAAAAABgNAAAAAAAAGQ0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASDQAAAAAAABINAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n-"
+					},
+					"AgAAABkNAAAAAAAAGg0AAAAAAAAAAAAAGg0AAAAAAAAbDQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZDQAAAAAAABkNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABsNAAAAAAAAHA0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbDQAAAAAAABsNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AQAAABwNAAAAAAAAhw0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcDQAAAAAAABwNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABkNAAAAAAAAGg0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZDQAAAAAAABkNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"paste",
+					null,
+					"AQAAABoNAAAAAAAAoA0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaDQAAAAAAABoNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKANAAAAAAAAoQ0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgDQAAAAAAAKANAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ8NAAAAAAAAnw0AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgDQAAAAAAAKANAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "\n-"
+					},
+					"AgAAAA4OAAAAAAAADw4AAAAAAAAAAAAADw4AAAAAAAAQDgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAODgAAAAAAAA4OAAAAAAAAAAAAAADgbEA"
+				],
+				[
+					29,
+					1,
+					"paste",
+					null,
+					"AQAAABAOAAAAAAAASA4AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQDgAAAAAAABAOAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive"
+	],
+	"file_history":
+	[
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/개인택시의 재발견.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-12-09.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-23.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-24.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-11.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180218-indonesia-00.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180228-불편한-질문.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180218-indonesia-02.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/170619-나는지금누구를사랑하는가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190204-라이언-에어-유감.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190822-Europe-2019-D-1.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-14.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-10-04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-09-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-03.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/관계를 선택한 이유.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-01-17.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-01-18.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-23.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-03-18.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-02-20.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-01-14.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-11-05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/지속 가능한 Trusted System.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2018-05-09.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/200211-나의-이상형.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-08-13.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-09-16.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190703-읽고싶은글.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140325-호주이민-2.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/이북 리더기.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-01-26.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-15.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-12.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2022-02-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2022-02-17.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/181108-천아계곡-캠핑-트레킹.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/160521-마흔이후누구와살것인가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/150706-how-to-pack-sleeping-bag.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/150100-europe-12.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191118-건강검진.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190707-나의-블로그-취향.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/210123-blog-app.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/160306-영상-Daylesford.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191210-설거지.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190606-왜나는너를사랑하는가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/200404-프로젝트-끝.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/211025-smarthome.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191001-자산이늘고있다.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140825-화투-예찬론.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140513-my-financial-life.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/220202-ipad.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/기록 정리.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/2022-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/2020-00.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120424-guam-day2.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-02-26_200502-춘천.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-02-05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-01-22_200501-강릉.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2004-11-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-10-19.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-09-06.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-08-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-07-12.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-06-08.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-05-11.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-04-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-04-19.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-10.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-11-15 copy.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-06-21_보성.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-01-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/부석사. 안동 하회마을.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/My work.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Inspection 3032.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 03.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/My car Yaris.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/싱가폴 (2008 Feb) 05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/China (2001 Aug) 01 출국 북경.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/태국 (2002 Sep) 05 먹은 거.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120307-8021.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Lovely Melbourne.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120313-zentangle.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/나는 가계부를 쓴다.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/대안생리대.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/운전면혀 시험.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 (Grammar in Use).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 GMP.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 Goodbye.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Open inspection.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Water Bill.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/잘먹고 잘산다고요.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/호주에서 먹고 살기.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/춘천 (2004 Apr).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/화왕산 (2003 Feb).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/화진포 (2002 Dec).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/정동진.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/영덕·울진 (2008 Mar).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/여수 (2003 Dec).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/안면도 홍성 (2003 Sep).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/안면도 (2003 Feb).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/수락산 (2002.10).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/속초 삼포 (2004 Sep).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선유도 (2004 Apr).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선운사 채석강 (2002.11).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수 (2002.05).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/대관령 (2002.11).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/남이섬 (2002.07).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/관동-프로젝트.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2017-03-05",
+			"나도 쓸 수",
+			"나도 쓸수 ",
+			"비혼",
+			"오늘도 장빈씨가",
+			"건대입구에서는 에스컬레이터 줄이 정말 길다",
+			"나는 내 문제를 아는가? ",
+			"왜 일하는가",
+			"재난지원금",
+			"중국 자전거",
+			"중국 여행",
+			"읽고싶은",
+			"읽고싶지 않은 글",
+			"읽고 싶지 않은 글",
+			"쓰고 싶지 않은 글",
+			"나는 마른 남자가 싫다",
+			"이상형",
+			"난 연애를 하면 다 나 같은 감정을 가지는 줄 알았다.",
+			"달력의 목적",
+			"B815",
+			"나는 일관적인 사람인가",
+			"벙커1 특강",
+			"캠핑클럽",
+			".\n",
+			"youtube",
+			".\n",
+			"로젝트가 끝났다. 장",
+			"재정 관리를 다시 시작하며 놀랍고도 감사한 사실 하나 발견했는데",
+			"style.layout",
+			"hasImage",
+			"FeaturedPost",
+			"featuredpost",
+			"_",
+			"수년만에 받는 건강검진",
+			" ",
+			"설거지",
+			"난 설거지",
+			"네이버 블로그",
+			"절박하지",
+			"뒷광고",
+			" {{< youtube",
+			"youtube"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										190,
+										200
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "201231-왜-일하는가.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
