@@ -7,171 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
-			"settings":
-			{
-				"buffer_size": 1237,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					7,
-					1,
-					"insert",
-					{
-						"characters": "ㅈ"
-					},
-					"AgAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABFAQAAAAAAAAMAAADssIw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAQAAAAAAAEUBAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					8,
-					1,
-					"",
-					null,
-					"AQAAAEQBAAAAAAAARQEAAAAAAAADAAAA44WI",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAQAAAAAAAEUBAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADIAQAAAAAAAMgBAAAAAAAAAAAAAAAA8L8"
-				]
-			]
-		},
-		{
-			"contents": "Searching 5484 files for \"2017-03-05\"\n\n/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md:\n    1  ---\n    2: date : 2017-03-05 \n    3  title : 겨울이네 컴퓨터 OS Windows 10 재설치\n    4  ---\n\n1 match in 1 file\n",
-			"settings":
-			{
-				"buffer_size": 274,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"contents": "---\ndate : 2017-03-05 \ntitle : 겨울이네 컴퓨터 OS Windows 10 재설치\n---\n\n* USB 를 넣고 윈도우10 재설치. (모든 파일 삭제 옵션 선택)\n* 설치에 1시간 정도 소요, (느림) wifi password 를 가장 먼저 물어봄\n* Microsoft 사용자 등록 skip. Yejin  1115 로 등록\n* 로컬 사용자 추가. yejins/yejins, yewons/Ekfrl, ddshsage/ddshsage\n* 한글2010설치 (from Util folder)\n* Office 365 에 로그인해서 설치 하였으나 구독 인증 과정에서 문제 발생.\n* L365 프린터 설치.",
-			"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
-			"file_size": 535,
-			"file_write_time": 132782678760000000,
-			"settings":
-			{
-				"buffer_size": 343,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "201231-왜-일하는가.md",
-			"settings":
-			{
-				"buffer_size": 3657,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					13,
-					1,
-					"insert",
-					{
-						"characters": "\n\n\n----"
-					},
-					"BwAAABINAAAAAAAAEw0AAAAAAAAAAAAAEw0AAAAAAAAUDQAAAAAAAAAAAAAUDQAAAAAAABUNAAAAAAAAAAAAABUNAAAAAAAAFg0AAAAAAAAAAAAAFg0AAAAAAAAXDQAAAAAAAAAAAAAXDQAAAAAAABgNAAAAAAAAAAAAABgNAAAAAAAAGQ0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASDQAAAAAAABINAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "\n-"
-					},
-					"AgAAABkNAAAAAAAAGg0AAAAAAAAAAAAAGg0AAAAAAAAbDQAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZDQAAAAAAABkNAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAABsNAAAAAAAAHA0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbDQAAAAAAABsNAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					16,
-					1,
-					"paste",
-					null,
-					"AQAAABwNAAAAAAAAhw0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcDQAAAAAAABwNAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAABkNAAAAAAAAGg0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZDQAAAAAAABkNAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					20,
-					1,
-					"paste",
-					null,
-					"AQAAABoNAAAAAAAAoA0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaDQAAAAAAABoNAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					21,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAKANAAAAAAAAoQ0AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgDQAAAAAAAKANAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					26,
-					1,
-					"left_delete",
-					null,
-					"AQAAAJ8NAAAAAAAAnw0AAAAAAAABAAAACg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgDQAAAAAAAKANAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					28,
-					1,
-					"insert",
-					{
-						"characters": "\n-"
-					},
-					"AgAAAA4OAAAAAAAADw4AAAAAAAAAAAAADw4AAAAAAAAQDgAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAODgAAAAAAAA4OAAAAAAAAAAAAAADgbEA"
-				],
-				[
-					29,
-					1,
-					"paste",
-					null,
-					"AQAAABAOAAAAAAAASA4AAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQDgAAAAAAABAOAAAAAAAAAAAAAAAA8L8"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -223,13 +58,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private",
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive"
-	],
 	"file_history":
 	[
+		"/Users/hrgo/Dropbox/Git/blog/content/post/201231-왜-일하는가.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/개인택시의 재발견.md",
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-12-09.md",
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-23.md",
@@ -354,14 +187,11 @@
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선유도 (2004 Apr).md",
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선운사 채석강 (2002.11).md",
 		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수.md",
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수 (2002.05).md",
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/대관령 (2002.11).md",
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/남이섬 (2002.07).md",
-		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/관동-프로젝트.md"
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수 (2002.05).md"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -440,147 +270,12 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								41,
-								41
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 274,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										190,
-										200
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								135,
-								135
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 343,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22,
-								11
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "201231-왜-일하는가.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3657,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								548,
-								548
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -621,7 +316,7 @@
 	"project": "blog.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":

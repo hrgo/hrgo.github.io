@@ -811,7 +811,7 @@ a:visited {
     color: #303030;
     text-decoration: none;
     border-width: 0 0 1px 0;
-    border-style: none none solid none;
+    border-style: none none dashed none;
     border-color: #c0c0c0;
 }
 
