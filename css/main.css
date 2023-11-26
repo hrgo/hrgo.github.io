@@ -656,7 +656,7 @@ section.main .content .markdown p {
 section.main .content .markdown ul,
 section.main .content .markdown ol,
 section.main .content .markdown dl {
-  margin-top: 1rem;
+  /*margin-top: 1rem;  목록 들여쓰기에서 줄이 벌어져서*/
   margin-bottom: 2rem;
 }
 section.main .content .markdown dt {
