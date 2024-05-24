@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>outdoors on Simply Me</title>
+    <title>Outdoors on Simply Me</title>
     <link>http://hrgo.github.io/tags/outdoors/</link>
-    <description>Recent content in outdoors on Simply Me</description>
+    <description>Recent content in Outdoors on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
@@ -771,9 +771,12 @@ _ 잘 실어 보쇼잉~&lt;/p&gt;
 &lt;em&gt;삼나무 숲을 만났다&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;무사히 주차장에 도착하니 12시. 세시간의 계곡 탐험이 무사히 끝났다. 정리하고 경남씨 출근을 위해 시내로. 산을 내려오는데 비가 뿌리기 시작. 우리 오늘 완전 럭키로구나!&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/qGyWwRk-uxA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qGyWwRk-uxA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -1403,10 +1406,10 @@ _ 네.&lt;/p&gt;
     
     <item>
       <title>국토종주 #2 (부산 낙동강 하구둑 - 남지)</title>
-      <link>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-#2-%EB%B6%80%EC%82%B0-%EB%82%99%EB%8F%99%EA%B0%95-%ED%95%98%EA%B5%AC%EB%91%91-%EB%82%A8%EC%A7%80/</link>
+      <link>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-%232-%EB%B6%80%EC%82%B0-%EB%82%99%EB%8F%99%EA%B0%95-%ED%95%98%EA%B5%AC%EB%91%91-%EB%82%A8%EC%A7%80/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-#2-%EB%B6%80%EC%82%B0-%EB%82%99%EB%8F%99%EA%B0%95-%ED%95%98%EA%B5%AC%EB%91%91-%EB%82%A8%EC%A7%80/</guid>
+      <guid>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-%232-%EB%B6%80%EC%82%B0-%EB%82%99%EB%8F%99%EA%B0%95-%ED%95%98%EA%B5%AC%EB%91%91-%EB%82%A8%EC%A7%80/</guid>
       <description>&lt;p&gt;TLTR : 부산항에서 낙동강 따라 100km를 달려 남지까지. 남지에서 서울행 버스.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;눈을 떠시 시계를보니 5시30분. 잔거 같긴 한데 잔거 같지가 않은 이상한 상태로 눈을 떴다. 창밖을 내다보니 육지의 불빛이 반짝반짝. 얼른 세수를 하고 일어나서 이불을 개자니 방송으로 노래가 흘러나오기 시작했다. 어디서 그런 촌스런(?) 명곡들만 모아놨는지. 잠은 제대로 못잤지만 노래를 들어서 그런가 기분 좋은 상태로 밖으로 나왔다. 부산항의 여명이 밝아 오고 있었다.&lt;/p&gt;
@@ -1488,10 +1491,10 @@ _ 네.&lt;/p&gt;
     
     <item>
       <title>국토종주 #1 (제주 1100고지 - 부산으로)</title>
-      <link>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-#1-%EC%A0%9C%EC%A3%BC-1100%EA%B3%A0%EC%A7%80-%EB%B6%80%EC%82%B0%EC%9C%BC%EB%A1%9C/</link>
+      <link>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-%231-%EC%A0%9C%EC%A3%BC-1100%EA%B3%A0%EC%A7%80-%EB%B6%80%EC%82%B0%EC%9C%BC%EB%A1%9C/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-#1-%EC%A0%9C%EC%A3%BC-1100%EA%B3%A0%EC%A7%80-%EB%B6%80%EC%82%B0%EC%9C%BC%EB%A1%9C/</guid>
+      <guid>http://hrgo.github.io/2016/11/%EA%B5%AD%ED%86%A0%EC%A2%85%EC%A3%BC-%231-%EC%A0%9C%EC%A3%BC-1100%EA%B3%A0%EC%A7%80-%EB%B6%80%EC%82%B0%EC%9C%BC%EB%A1%9C/</guid>
       <description>&lt;p&gt;TLTR : 서귀포에서 1100고지를 넘어 제주항으로. 부산으로 밤배 타고 이동.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;제주에 사는 지금 안하면 나중에 후회할 것 같은 일 중 하나가 자전거로 110고지 오르기였다. 어차피 자전거를 서울로 옮기려면 배를 타던 비행기를 타던 서귀포에서 제주시로 가야했는데, 이미 해안 도로는 여러번 달려보았으니 이 기회에 제주를 종으로 가로질러 가보기로 했다. 자전거를 서울로 가져가기 위해서 포장하고 비행기를 태우고 어쩌고 하는 과정이 귀찮았기 때문에 차라리 내가 타고 가자, 내 몸을 괴롭히기로 한 것이라고 할 수 있겠다.&lt;/p&gt;
@@ -1513,7 +1516,7 @@ _ 네.&lt;/p&gt;
 &lt;em&gt;사진으로는 와닿지 않는 오르막&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;평지는 없었고 급경사와 완만경사가 번갈아가며 이어졌다. 저걸 어떻게 올라가냐 싶은 급경사를 여러번 넘었다. 죽으란 법은 없었다. 차가 가는 길은 자전거도 간다. 더 이상 못갈 것 같은 순간에 급경사는 끝나고 완만한 경사가 시작되어 숨을 돌릴 수 있었다. 그것도 안될 땐 잠깐 쉬었다 가면 되었다. 두어번 쉬었나. 속도와 시간에 대한 욕심을 접고 자전거가 넘어지지 않을 정도로만 페달링. 노래를 흥얼거릴 정도로 할만해졌다.&lt;/p&gt;
 &lt;p&gt;왕복 2차선이었지만 차량 통행이 많지 않았고 지나가는 차들은 알아서들 피해갔다. 내가 중심을 잃고 자빠지지만 않으면 위험하진 않은 길이었다. 어떤 차는 멈춰서서 사진을 찍기도 했다.&lt;/p&gt;
-&lt;p&gt;휴양림을 좀 못가서 휴게소에 도착했다. 뒤뚱거리며 매점에 가서 물을 한 병 샀다. 전망대에 차를 세우고 구경하던 사람들이 등 뒤에서 ‘여길 자전거 타고 왔나봐?&#39; 라며 수군댔다. 숨을 돌리고 서귀포 앞바다를 내려다보며 스트레칭. 햄스트링의 미세한 떨림이 느껴졌다. 이 묘한 쾌감은 뭐지.&lt;/p&gt;
+&lt;p&gt;휴양림을 좀 못가서 휴게소에 도착했다. 뒤뚱거리며 매점에 가서 물을 한 병 샀다. 전망대에 차를 세우고 구경하던 사람들이 등 뒤에서 ‘여길 자전거 타고 왔나봐?&amp;rsquo; 라며 수군댔다. 숨을 돌리고 서귀포 앞바다를 내려다보며 스트레칭. 햄스트링의 미세한 떨림이 느껴졌다. 이 묘한 쾌감은 뭐지.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/uoMqAWxnFXAzbgzkY84pYE7xo6e9HgMOSDTZcdMaI9GHv-Bz7jmOajtG3BSJzoH9yyBSwVUsq4LceBSA7s0kkKcSxF1z-6V8k0FGRRMk9hImkTPlvFcSaL7hPE9U_TFY-UQR-JKx1QAmvqoZ-Otebu0h3pCgKvdTy1leOAy4J6KCQyuY7YTfHnuOgSex_CKj1ZWhQ_y_zmGv3dPAUIwKaPqon4gnZV1IvO949-dsNFskAzPQ9EKs-AyOg7mfyft4NNZD7iOa1q1Wrbh4JescCiEfqgt3wO0aP2cLL_mjZZGhoaD9wXCf49yyqfYXEQU4M6AtiQZoDZYnXubZWlxjiuJ3t_ZRnLcHVfOawZYWPMB3JVWdeTA6mUgYga_wLF9A6O9rzKeMjwbsSxTAy8XXmUzaFe2CSH_yvQ0DwdZ0fR_lAAu5AxF8pSj4xQ6Zk0aK39eex1g7aiAR_deFgI1oPpjJnHoxBgJ3jOiNZTjn-7uHKZLx7tDD_y7wUTq98x7lB7voYyrLMpX2Ihe30n1F1uW0t-BpVrt-4OmadlYb6Fb9xsE3bhAgmojfvfwnN_IaVKxIDYDtkKXgE--Cs55dpdBrk0JmqlJYeq1I8OHY12r87NrQ0w=w1408-h792-no&#34; alt=&#34;&#34;&gt;
 &lt;em&gt;잠시 숨을 돌리며&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/FWJdw8-gEvNmKl-TbyBJGB0poMALhWaEF0d9tA5Ncm2PHnu6klrhhKM-jaLHgz7cRPa0_rcxdIlQFPQfBuGqXdlKOUpGLffyLFRtiRDFgQ98msUtQ4n9YRtCO3fQcIY788ZsZ4gL-aKtP0bQwmcnUw8ni31RxPukvBotr3q6RlJiv_RD2lSAvzXQAdIJnbRPYymTQH7oTaEaQJQhZQAldwW7c-Dr4l1K7aGtEq8ocUDDbAN0ZDAsVBlUHb2qzwYTnHwpp2IvH361P258reaL_5De0n4OA0fViSyIAF8j8_FrfBIltCtIuWo4MU3fJ-DO0JxNkeAQzo0EobtV-_pkC5EDZd6VX8r8H0aNjeCZbbGOvLj_7DtkFzjQaNnv5J5z4osppiBV-mft43f_W6XAN1AUaCXorGLNmqxYzTT19aW8FBOD3XkGpod5Ry4_vpQwtyvmWkq11XCaX6n48LVZ4KyDDfTp-LGMVvWjPytVMPPklApBh7sKN4lWcN7Zz9gii3uqhU0SkBuM7dURLvDt5588qkNjlMPkEQeKo1T6KaZ95L6s2gyDRHO1owHwbU0ituOAbvdV8-2L0yScBqbaYW2Kfj7c_AO5uj1WfjHRtZPV2Ew0JQ=w1408-h792-no&#34; alt=&#34;&#34;&gt;
@@ -3506,9 +3509,12 @@ Toilet break. 주변 풍경 감상 중.&lt;/p&gt;
 &lt;p&gt;방법은 간단하다. 침낭 발끝부터 주머니 안으로 넣는다. 손으로 꾹꾹 누르면서 넣기 때문에 넣으면서 침낭의 공기가 빠지면서 제대로 압축이 된다. 처음엔 무작정 쑤셔 넣으면 안들어 갈 것 같았는데 꾸역꾸역 밀어 넣다보면 다 들어간다. 침낭이 구겨지면 어떡하냐고? 침낭은 단정하게 입어야 하는 옷이 아니다. 덮고 자는 이불일 뿐이다.&lt;/p&gt;
 &lt;p&gt;침낭을 말아서 넣겠다고 침낭을 끌어안고 주머니와 씨름하는 일은 이제 그만.&lt;/p&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/tqAImlKZAW0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tqAImlKZAW0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
     </item>
@@ -4419,7 +4425,7 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
 화장실 가기 위해 잠시 차를 대고 주변 구경.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7258/13287499163_3e9bdf426b_b.jpg&#34; alt=&#34;&#34;&gt;
 지영이 날 데리고 간 곳은. The gardens 의 &amp;ldquo;뒷바다&amp;quot;란다. ㅋㅋ&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://farm4.staticflickr.com/3808/13287496293_4cb2f592be_b.jpg&#34; alt=&#34;&#34;&gt; 
+&lt;p&gt;&lt;img src=&#34;http://farm4.staticflickr.com/3808/13287496293_4cb2f592be_b.jpg&#34; alt=&#34;&#34;&gt;
 그냥 찍어도 이런 그림같은 사진. 햇볕이 부서지는 모습이 나름 잘 찍혔다.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7172/13287331375_2abb94da42_b.jpg&#34; alt=&#34;&#34;&gt;
 Bay of Fire를 배경으로.&lt;/p&gt;
@@ -7454,10 +7460,10 @@ Powered Site라 나는 전기요를 쓰기 위해 전선를 텐트 안으로 끌
     
     <item>
       <title>Golf @ Riverside</title>
-      <link>http://hrgo.github.io/2012/06/golf-riverside/</link>
+      <link>http://hrgo.github.io/2012/06/golf-@-riverside/</link>
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://hrgo.github.io/2012/06/golf-riverside/</guid>
+      <guid>http://hrgo.github.io/2012/06/golf-@-riverside/</guid>
       <description>&lt;p&gt;내맘대로 나가는 두번째 라운딩.
 아침에 레슨 받고 오후에 라운딩. 프로님껜 비밀. ㅋㅋ&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7262/7445284894_f932bfb507_c.jpg&#34; alt=&#34;&#34;&gt;
@@ -7537,7 +7543,7 @@ Big Rock을 한바퀴 돌고 오니 반짝 뜬 무지개.&lt;/p&gt;
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;언제 : 16/3/2012 ~ 18/3/2012 (Fri-Sun) 2박3일&lt;/li&gt;
-&lt;li&gt;어디 : Jubilee Holiday Park (&lt;a href=&#34;http://www.jubileelake.com.au&#34;&gt;www.jubileelake.com.au&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;어디 : Jubilee Holiday Park (&lt;a href=&#34;https://www.jubileelake.com.au&#34;&gt;www.jubileelake.com.au&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;누구랑 : Meetup members&lt;/li&gt;
 &lt;li&gt;Transportation : 자가운전&lt;/li&gt;
 &lt;li&gt;Cost : Site fee $42&lt;/li&gt;
@@ -8833,8 +8839,6 @@ Total	 $907.34&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -8950,7 +8954,7 @@ Total	 $907.34&lt;/li&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7018/6714105173_28457452ff_b.jpg&#34; alt=&#34;&#34;&gt;
 부산 안녕. 지리산아 기다려라. 운봉으로 고고~!&lt;/p&gt;
 &lt;h3 id=&#34;운봉-도착&#34;&gt;운봉 도착&lt;/h3&gt;
-&lt;p&gt;![](&lt;a href=&#34;http://farm8.staticflickr.com/7013/6714107605_9bc662fb52_b.jpg%22&#34;&gt;http://farm8.staticflickr.com/7013/6714107605_9bc662fb52_b.jpg&amp;quot;&lt;/a&gt; alt=&amp;quot;)
+&lt;p&gt;![](&lt;a href=&#34;http://farm8.staticflickr.com/7013/6714107605_9bc662fb52_b.jpg%22&#34;&gt;http://farm8.staticflickr.com/7013/6714107605_9bc662fb52_b.jpg&amp;quot;&lt;/a&gt; alt=&amp;rdquo;)
 부산에서 버스를 타고 운봉에 내리니 9시가 다되간다.
 민박집 아자씨가 픽업을 나오셔서 막걸리 한병과 군것질 거리를 사가지고 민박집으로.&lt;/p&gt;
 &lt;p&gt;![](&lt;a href=&#34;http://farm8.staticflickr.com/7162/6714108959_0b8de24e47_b.jpg%22&#34;&gt;http://farm8.staticflickr.com/7162/6714108959_0b8de24e47_b.jpg&amp;quot;&lt;/a&gt; alt=&amp;quot;)
