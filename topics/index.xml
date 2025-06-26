@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Simply Me</title>
+    <link>http://hrgo.github.io/topics/</link>
+    <description>Recent content in Topics on Simply Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <managingEditor>k8hyun@gmail.com (흐름)</managingEditor>
+    <webMaster>k8hyun@gmail.com (흐름)</webMaster>
+    
+        <atom:link href="http://hrgo.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

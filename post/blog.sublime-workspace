@@ -1,0 +1,1664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "240401-any-day.md",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAdwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AgAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAEAAAAz",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "05"
+					},
+					"AwAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAIAAAAxMRIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AgAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATAAAAAAAAAAEAAAA1",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AgAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArAAAAAAAAAAEAAAAz",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					2,
+					"left_delete",
+					null,
+					"AgAAABgAAAAAAAAAGAAAAAAAAAAaAAAAcHVibGlzaGRhdGUgOiAiMjAyNC0xMS0zMCIXAAAAAAAAABcAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAYAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEAAAAAAAAAIQAAAAAAAAAgAAAARXZlcnlkYXkgTWF0dGVycyAoMjAyMyBOb3ZlbWJlcik",
+					"AQAAAAAAAAABAAAAIQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "dkanskf"
+					},
+					"BwAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					8,
+					"left_delete",
+					null,
+					"CAAAACgAAAAAAAAAKAAAAAAAAAABAAAAICcAAAAAAAAAJwAAAAAAAAABAAAAZiYAAAAAAAAAJgAAAAAAAAABAAAAayUAAAAAAAAAJQAAAAAAAAABAAAAcyQAAAAAAAAAJAAAAAAAAAABAAAAbiMAAAAAAAAAIwAAAAAAAAABAAAAYSIAAAAAAAAAIgAAAAAAAAABAAAAayEAAAAAAAAAIQAAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "2024"
+					},
+					"BAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " ㅇ"
+					},
+					"AgAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"",
+					null,
+					"AQAAACYAAAAAAAAAJwAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"",
+					null,
+					"AQAAACYAAAAAAAAAJwAAAAAAAAADAAAA7JWE",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"",
+					null,
+					"AQAAACYAAAAAAAAAJwAAAAAAAAADAAAA7JWU",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "무"
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"",
+					null,
+					"AQAAACcAAAAAAAAAKAAAAAAAAAADAAAA66y0",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"",
+					null,
+					"AQAAACcAAAAAAAAAKAAAAAAAAAADAAAA66y4",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "나"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"",
+					null,
+					"AQAAACgAAAAAAAAAKQAAAAAAAAADAAAA64KY",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"",
+					null,
+					"AQAAACgAAAAAAAAAKQAAAAAAAAADAAAA64Kg",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " ㅍ"
+					},
+					"AgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"",
+					null,
+					"AQAAACoAAAAAAAAAKwAAAAAAAAADAAAA44WN",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"",
+					null,
+					"AQAAACoAAAAAAAAAKwAAAAAAAAADAAAA7ZSE",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"",
+					null,
+					"AQAAACoAAAAAAAAAKwAAAAAAAAADAAAA7ZSM",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "로"
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"",
+					null,
+					"AQAAACsAAAAAAAAALAAAAAAAAAADAAAA66Gc",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"",
+					null,
+					"AQAAACsAAAAAAAAALAAAAAAAAAADAAAA66Gy",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "제"
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"",
+					null,
+					"AQAAACwAAAAAAAAALQAAAAAAAAADAAAA7KCc",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"",
+					null,
+					"AQAAACwAAAAAAAAALQAAAAAAAAADAAAA7KCd",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "ㅌ"
+					},
+					"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"",
+					null,
+					"AQAAAC0AAAAAAAAALgAAAAAAAAADAAAA44WM",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAEkBAAAAAAAASgEAAAAAAAAAAAAASgEAAAAAAABLAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQEAAAAAAABJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"paste",
+					null,
+					"AQAAAEsBAAAAAAAAfgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAH4BAAAAAAAAfwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHAAAAAAAAAAcAAAAAAAAADVAAAAaHVtYm5haWwgOiAiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3B3L0FEQ3JlSGNqeTFDTkd0UENSNko2V1paUDRwcElyZ1o4VXRLcGtNek9CaWl5djRJa0JhU2NVNnM1Tmg4WkttNUQwcUNWcG5RMU8zdTZhNGo5YTNoMGdJVTJYWW05YWpaaUZkby1oaWs4THF5N0w5QU4xdmpPVjllQi1oZlZXTGl3T2w5RV8xQ1pEcGQ3dV9uWUtVNi1XYkJKOVdKRjJ3PXc2MDAibwAAAAAAAABvAAAAAAAAAAEAAAB0bgAAAAAAAABuAAAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "4ㄴ"
+					},
+					"AwAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABfAAAAAAAAACEAAAAz64WEIDEx7JuU7J2YIOyGjOykke2VnCDtlZjro6jrk6RfAAAAAAAAAGAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"",
+					null,
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"",
+					null,
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAADAAAA64WA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"",
+					null,
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAADAAAA64WE",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": " ㅇ"
+					},
+					"AgAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"",
+					null,
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"",
+					null,
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAADAAAA7JWE",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"",
+					null,
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAADAAAA7JWU",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "무"
+					},
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"",
+					null,
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAADAAAA66y0",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"",
+					null,
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAADAAAA66y4",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "나"
+					},
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"",
+					null,
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAADAAAA64KY",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"",
+					null,
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAADAAAA64Kg",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": " ㅍ"
+					},
+					"AgAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"",
+					null,
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAADAAAA44WN",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"",
+					null,
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAADAAAA7ZSE",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"",
+					null,
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAADAAAA7ZSM",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "로"
+					},
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"",
+					null,
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAADAAAA66Gc",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"",
+					null,
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAADAAAA66Gy",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": "제"
+					},
+					"AQAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"",
+					null,
+					"AQAAAGcAAAAAAAAAaAAAAAAAAAADAAAA7KCc",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"",
+					null,
+					"AQAAAGcAAAAAAAAAaAAAAAAAAAADAAAA7KCd",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"insert",
+					{
+						"characters": "ㅌ"
+					},
+					"AQAAAGgAAAAAAAAAaQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"",
+					null,
+					"AQAAAGgAAAAAAAAAaQAAAAAAAAADAAAA44WM",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAYG1A"
+				],
+				[
+					126,
+					1,
+					"paste",
+					null,
+					"AQAAAKcAAAAAAAAA/gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABiAgAALS0tCmRhdGUgOiAiMjAyNC0wNC0wMSIKdGl0bGUgOiAiMjAyNCDslYTrrLTrgqAg7ZSE66Gc7KCd7Yq4Igp0YWdzIDogWyJldmVyeWRheS1tYXR0ZXJzIl0KZGVzY3JpcHRpb24gOiAiMjAyNOuFhCDslYTrrLTrgqAg7ZSE66Gc7KCd7Yq4IgotLS0KCu2VnCDri6zsl5Ag7ZWcIOuyiCwg7JWE66y064Kg7J2064KYIO2VmOujqOulvCDsmIHsg4HsnLzroZwg64Ko6ri064ukLiAK7Jik64qY7J2YIOuCtOqwgCDrr7jrnpjsnZgg64KY7JeQ6rKMIOyjvOuKlCDshKDrrLwuCgoKPGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9BUUtVQUl5cjZPdz9zaT1OOVJ3VE5yQmk1aE1tVFhXJmFtcDtjb250cm9scz0wIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiByZWZlcnJlcnBvbGljeT0ic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPgAAAAAAAAAA/gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AgAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACmAAAAAAAAAFkBAAAKCjxpZnJhbWUgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvQVFLVUFJeXI2T3c/c2k9TjlSd1ROckJpNWhNbVRYVyZhbXA7Y29udHJvbHM9MCIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmU7IHdlYi1zaGFyZSIgcmVmZXJyZXJwb2xpY3k9InN0cmljdC1vcmlnaW4td2hlbi1jcm9zcy1vcmlnaW4iIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4",
+					"AQAAAAAAAAABAAAApQAAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAApwAAAAAAAACnAAAAAAAAAAEAAAAg",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"paste",
+					null,
+					"AQAAAKkAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AgAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC2AAAAAAAAAAsAAAB3N0Z0MnltR21mYw",
+					"AQAAAAAAAAABAAAAtQAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"paste",
+					null,
+					"AQAAALYAAAAAAAAAwQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"paste",
+					null,
+					"AQAAAKkAAAAAAAAAxQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMcAAAAAAAAAxwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"paste",
+					null,
+					"AQAAAKgAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					189,
+					1,
+					"cut",
+					null,
+					"AQAAANYAAAAAAAAA1gAAAAAAAAALAAAAZ1I0azVDcDBRTlk",
+					"AQAAAAAAAAABAAAA4QAAAAAAAADWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"paste",
+					null,
+					"AgAAALUAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAAsAAABBUUtVQUl5cjZPdw",
+					"AQAAAAAAAAABAAAAtQAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMUAAAAAAAAAxQAAAAAAAAARAAAAaHR0cHM6Ly95b3V0dS5iZS/EAAAAAAAAAMQAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAA1gAAAAAAAADFAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					198,
+					1,
+					"insert",
+					{
+						"characters": "4dnjf"
+					},
+					"BQAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMkAAAAAAAAAygAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					5,
+					"left_delete",
+					null,
+					"BQAAAMkAAAAAAAAAyQAAAAAAAAABAAAAIMgAAAAAAAAAyAAAAAAAAAABAAAAZscAAAAAAAAAxwAAAAAAAAABAAAAasYAAAAAAAAAxgAAAAAAAAABAAAAbsUAAAAAAAAAxQAAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": "ㅇ"
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					202,
+					1,
+					"",
+					null,
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					203,
+					1,
+					"",
+					null,
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"",
+					null,
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAADAAAA7Jq4",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					1,
+					"",
+					null,
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					206,
+					1,
+					"insert",
+					{
+						"characters": "ㅜ"
+					},
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					207,
+					1,
+					"",
+					null,
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAADAAAA44Wc",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					208,
+					1,
+					"",
+					null,
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAADAAAA44Wd",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"insert",
+					{
+						"characters": "ㄹ"
+					},
+					"AQAAAMcAAAAAAAAAyAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					210,
+					1,
+					"",
+					null,
+					"AQAAAMcAAAAAAAAAyAAAAAAAAAADAAAA44S5",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					4,
+					"left_delete",
+					null,
+					"BAAAAMcAAAAAAAAAxwAAAAAAAAADAAAA44S5xgAAAAAAAADGAAAAAAAAAAMAAADjhZ3FAAAAAAAAAMUAAAAAAAAAAwAAAOyasMQAAAAAAAAAxAAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					212,
+					1,
+					"insert",
+					{
+						"characters": "\n4ㅇ"
+					},
+					"AwAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					213,
+					1,
+					"",
+					null,
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					214,
+					1,
+					"",
+					null,
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					215,
+					1,
+					"",
+					null,
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAADAAAA7JuM",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"insert",
+					{
+						"characters": "\n5ㅇ"
+					},
+					"AwAAAOUAAAAAAAAA5gAAAAAAAAAAAAAA5gAAAAAAAADnAAAAAAAAAAAAAADnAAAAAAAAAOgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QAAAAAAAADlAAAAAAAAAAAAAAAAADZA"
+				],
+				[
+					219,
+					1,
+					"",
+					null,
+					"AQAAAOcAAAAAAAAA6AAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"",
+					null,
+					"AQAAAOcAAAAAAAAA6AAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"",
+					null,
+					"AQAAAOcAAAAAAAAA6AAAAAAAAAADAAAA7JuM",
+					"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					224,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMYAAAAAAAAAxgAAAAAAAAADAAAA7JuUxQAAAAAAAADFAAAAAAAAAAEAAAA0xAAAAAAAAADEAAAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					228,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOMAAAAAAAAA4wAAAAAAAAAEAAAANeyblA",
+					"AQAAAAAAAAABAAAA5QAAAAAAAADjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					234,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					235,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMUAAAAAAAAAxQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					236,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMUAAAAAAAAAxQAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					238,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					240,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMcAAAAAAAAAyAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					242,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					247,
+					1,
+					"insert",
+					{
+						"characters": "2024ㄴ"
+					},
+					"BQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyQAAAAAAAAAAAAAAyQAAAAAAAADKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					248,
+					1,
+					"",
+					null,
+					"AQAAAMkAAAAAAAAAygAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					249,
+					1,
+					"",
+					null,
+					"AQAAAMkAAAAAAAAAygAAAAAAAAADAAAA64WA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					250,
+					1,
+					"",
+					null,
+					"AQAAAMkAAAAAAAAAygAAAAAAAAADAAAA64WE",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					251,
+					1,
+					"insert",
+					{
+						"characters": " 4ㅇ"
+					},
+					"AwAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAAM0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					252,
+					1,
+					"",
+					null,
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					253,
+					1,
+					"",
+					null,
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					254,
+					1,
+					"",
+					null,
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAADAAAA7JuM",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					256,
+					1,
+					"left_delete",
+					null,
+					"AQAAANEAAAAAAAAA0QAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAQFJA"
+				],
+				[
+					258,
+					2,
+					"left_delete",
+					null,
+					"AgAAAM4AAAAAAAAAzgAAAAAAAAABAAAAIM0AAAAAAAAAzQAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					260,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO0AAAAAAAAA7QAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAA7gAAAAAAAADuAAAAAAAAAAAAAAAAQFJA"
+				],
+				[
+					261,
+					1,
+					"insert",
+					{
+						"characters": "2024ㅕ"
+					},
+					"BQAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA7gAAAAAAAADvAAAAAAAAAAAAAADvAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA8QAAAAAAAAAAAAAA8QAAAAAAAADyAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					262,
+					1,
+					"",
+					null,
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAADAAAA44WV",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"insert",
+					{
+						"characters": "ㄴ"
+					},
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					264,
+					1,
+					"",
+					null,
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					265,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					266,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPMAAAAAAAAA8wAAAAAAAAABAAAAIPIAAAAAAAAA8gAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"insert",
+					{
+						"characters": "ㄴ"
+					},
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					268,
+					1,
+					"",
+					null,
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					269,
+					1,
+					"",
+					null,
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAADAAAA64WA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					270,
+					1,
+					"",
+					null,
+					"AQAAAPIAAAAAAAAA8wAAAAAAAAADAAAA64WE",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					3,
+					"left_delete",
+					null,
+					"AwAAAPMAAAAAAAAA8wAAAAAAAAABAAAAIPIAAAAAAAAA8gAAAAAAAAADAAAA64WE8QAAAAAAAADxAAAAAAAAAAMAAADjhZU",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"insert",
+					{
+						"characters": "ㄴ"
+					},
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					274,
+					1,
+					"",
+					null,
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAADAAAA44S0",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					275,
+					1,
+					"",
+					null,
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAADAAAA64WA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					276,
+					1,
+					"",
+					null,
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAADAAAA64WE",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					277,
+					1,
+					"insert",
+					{
+						"characters": " 5ㅇ"
+					},
+					"AwAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					278,
+					1,
+					"",
+					null,
+					"AQAAAPQAAAAAAAAA9QAAAAAAAAADAAAA44WH",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					279,
+					1,
+					"",
+					null,
+					"AQAAAPQAAAAAAAAA9QAAAAAAAAADAAAA7Jqw",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"",
+					null,
+					"AQAAAPQAAAAAAAAA9QAAAAAAAAADAAAA7JuM",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hrgo/Dropbox/Git/blog/content/post/201231-왜-일하는가.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/김연경.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/겨울이네 컴퓨터 OS Windows 10 재설치.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/개인택시의 재발견.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-12-09.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-23.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-24.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-11.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180218-indonesia-00.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180228-불편한-질문.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/180218-indonesia-02.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/170619-나는지금누구를사랑하는가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190204-라이언-에어-유감.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190822-Europe-2019-D-1.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-14.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-10-04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-09-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-03.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/관계를 선택한 이유.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-01-17.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-01-18.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-23.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-03-18.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-02-20.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-12-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-01-14.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-11-05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/지속 가능한 Trusted System.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2018-05-09.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/200211-나의-이상형.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-08-13.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-09-16.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190703-읽고싶은글.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140325-호주이민-2.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/이북 리더기.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2020-01-26.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-15.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2019-11-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-12.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-30.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2021-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2022-02-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/Journal/Daily-2022-02-17.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/181108-천아계곡-캠핑-트레킹.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/160521-마흔이후누구와살것인가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/150706-how-to-pack-sleeping-bag.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/150100-europe-12.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191118-건강검진.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190707-나의-블로그-취향.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/210123-blog-app.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/160306-영상-Daylesford.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191210-설거지.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/190606-왜나는너를사랑하는가.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/200404-프로젝트-끝.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/211025-smarthome.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/191001-자산이늘고있다.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140825-화투-예찬론.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/140513-my-financial-life.md",
+		"/Users/hrgo/Dropbox/Git/blog/content/post/220202-ipad.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/기록 정리.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/2022-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/2020-00.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120424-guam-day2.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-02-26_200502-춘천.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-02-05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2005-01-22_200501-강릉.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2004-11-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-11-01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-10-19.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-09-06.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-08-16.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-07-12.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-06-08.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-05-11.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-04-27.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-04-19.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-31.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-10.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-12-02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-11-15 copy.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2002-06-21_보성.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/2003-01-25.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/diary/부석사. 안동 하회마을.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/My work.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Inspection 3032.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 01.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 02.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 03.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/말레이시아 (2008 Feb) 04.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/My car Yaris.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/싱가폴 (2008 Feb) 05.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/China (2001 Aug) 01 출국 북경.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/태국 (2002 Sep) 05 먹은 거.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120307-8021.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Lovely Melbourne.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/120313-zentangle.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/나는 가계부를 쓴다.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/대안생리대.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/운전면혀 시험.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 (Grammar in Use).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 GMP.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/월스트리트인스티튜트 Goodbye.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Open inspection.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/Water Bill.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/잘먹고 잘산다고요.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/호주에서 먹고 살기.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/춘천 (2004 Apr).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/화왕산 (2003 Feb).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/화진포 (2002 Dec).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/정동진.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/영덕·울진 (2008 Mar).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/여수 (2003 Dec).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/안면도 홍성 (2003 Sep).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/안면도 (2003 Feb).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/수락산 (2002.10).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/속초 삼포 (2004 Sep).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선유도 (2004 Apr).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/선운사 채석강 (2002.11).md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수.md",
+		"/Users/hrgo/Library/Mobile Documents/iCloud~md~obsidian/Documents/Private/archive/산정호수 (2002.05).md"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2017-03-05",
+			"나도 쓸 수",
+			"나도 쓸수 ",
+			"비혼",
+			"오늘도 장빈씨가",
+			"건대입구에서는 에스컬레이터 줄이 정말 길다",
+			"나는 내 문제를 아는가? ",
+			"왜 일하는가",
+			"재난지원금",
+			"중국 자전거",
+			"중국 여행",
+			"읽고싶은",
+			"읽고싶지 않은 글",
+			"읽고 싶지 않은 글",
+			"쓰고 싶지 않은 글",
+			"나는 마른 남자가 싫다",
+			"이상형",
+			"난 연애를 하면 다 나 같은 감정을 가지는 줄 알았다.",
+			"달력의 목적",
+			"B815",
+			"나는 일관적인 사람인가",
+			"벙커1 특강",
+			"캠핑클럽",
+			".\n",
+			"youtube",
+			".\n",
+			"로젝트가 끝났다. 장",
+			"재정 관리를 다시 시작하며 놀랍고도 감사한 사실 하나 발견했는데",
+			"style.layout",
+			"hasImage",
+			"FeaturedPost",
+			"featuredpost",
+			"_",
+			"수년만에 받는 건강검진",
+			" ",
+			"설거지",
+			"난 설거지",
+			"네이버 블로그",
+			"절박하지",
+			"뒷광고",
+			" {{< youtube",
+			"youtube"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "240401-any-day.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

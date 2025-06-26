@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simply Me</title>
-    <link>http://localhost:1313/</link>
+    <link>http://hrgo.github.io/</link>
     <description>Recent content on Simply Me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
@@ -9,42 +9,24 @@
     <webMaster>k8hyun@gmail.com (흐름)</webMaster>
     <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://hrgo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>http://hrgo.github.io/post/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>http://localhost:1313/photo/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/photo/</guid>
+      <guid>http://hrgo.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Something of Myself</title>
-      <link>http://localhost:1313/something-of-myself/</link>
+      <link>http://hrgo.github.io/something-of-myself/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/something-of-myself/</guid>
+      <guid>http://hrgo.github.io/something-of-myself/</guid>
       <description>&lt;h3 id=&#34;나는야&#34;&gt;나는야&lt;/h3&gt;
 &lt;p&gt;행복한 이기주의자&lt;/p&gt;
 &lt;h3 id=&#34;가치&#34;&gt;가치&lt;/h3&gt;
@@ -71,51 +53,17 @@
     </item>
     
     <item>
-      <title>For Family</title>
-      <link>http://localhost:1313/family-toc/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/family-toc/</guid>
-      <description>&lt;h2 id=&#34;family-news-letter&#34;&gt;Family News Letter&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/family-news-letter&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/family-newsletter-5/&#34;&gt;Family News letter $5 | 2015년 1월 ~ 4월 &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/family-newsletter-4/&#34;&gt;Family News Letter #4 | 2014년 7월 ~ 9월&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/family-newsletter-3/&#34;&gt;Family News Letter #3 | 2014년 4월 ~ 6월&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/family-newsletter-2/&#34;&gt;Family News Letter #2 | 2014년 1월 ~ 3월&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/family-newsletter-1/&#34;&gt;Family News Letter #1 | 2013년 1월 ~ 12월 &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;family-event&#34;&gt;Family Event&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/kj-2015/&#34;&gt;2015 경주 가족여행&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/europe-2015&#34;&gt;2015 현자매 송자매 유럽 - 작성중&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/father-2014/&#34;&gt;2014 아빠 호주 방문 - 작성중&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/nz-south-2013&#34;&gt;2013 뉴질랜드 남섬 캠퍼카 여행&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/nz-2013/&#34;&gt;2013 뉴질랜드 북섬&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/guam-2012/&#34;&gt;2012 괌&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/jeju-2012/&#34;&gt;2012 제주도&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/topics/thailand-2011/&#34;&gt;2011 태국&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;2010 송자매 멜번 - 작성 예정&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;family-history&#34;&gt;Family History&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/2013/05/family-video/&#34;&gt;Family Video&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Lover of Silence</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://hrgo.github.io/about/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://hrgo.github.io/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/pw/ADCreHdPTqtYtVFvvVlJCxZGRDo_k-Zz_Jl-OhC9TFZNaNlZXm6R2k7iUJRz06RgENg23dagziZsb6-0bSadkVN59zqnsMzXgMpJqfxqwvGBGmhtRLG2cKxUC7TL55TEU5Ppncl-duYnmA8RqxEpWJyvhqAO5w=w1416-h1062-s-no-gm?authuser=0&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/something-of-myself/&#34;&gt;Something of Myself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hrgo.github.io/something-of-myself/&#34;&gt;Something of Myself&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -124,76 +72,6 @@
 &lt;li&gt;latest-5-posts-only-blog&lt;/li&gt;
 &lt;li&gt;Powered by &lt;!-- raw HTML omitted --&gt;Hugo&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Lover of Silence</title>
-      <link>http://localhost:1313/about_backup/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/about_backup/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4582/38133318831_1670583060_m.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/2016/04/something-of-myself/&#34;&gt;Something of Myself&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Keyword : &lt;a href=&#34;http://localhost:1313/tags/outdoors&#34;&gt;outdoors&lt;/a&gt;, travel, &lt;a href=&#34;http://localhost:1313/tags/bike&#34;&gt;bike&lt;/a&gt;, melbourne , jeju&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;personal-projects&#34;&gt;Personal Projects&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/categories/photo/&#34;&gt;내가 감동한 순간&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/categories/sketch/&#34;&gt;가끔 그린 그림&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/vlog/&#34;&gt;VLog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/everyday-matters/&#34;&gt;Everyday Matters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/spark-joy&#34;&gt;내 물건 이야기&lt;/a&gt;
-etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;currently-doing&#34;&gt;Currently doing&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;서울에서 단기 경제 활동&lt;/li&gt;
-&lt;li&gt;지적 호기심 채우기&lt;/li&gt;
-&lt;li&gt;아빠랑 지지고 볶기&lt;/li&gt;
-&lt;li&gt;책 읽고 나누기&lt;/li&gt;
-&lt;li&gt;하루하루 꼼꼼히 기록하기&lt;/li&gt;
-&lt;li&gt;행복한 순간 소중한 사람들과 나누기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;always-doing&#34;&gt;Always doing&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/2016/07//i-am-always-sorting-out//&#34;&gt;정리&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/categories/book/&#34;&gt;읽기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/miscellany/&#34;&gt;쓰기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;듣기&lt;/li&gt;
-&lt;li&gt;걷기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;about-site&#34;&gt;About Site&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;내가 자라온 기록&lt;/li&gt;
-&lt;li&gt;Powered by &lt;!-- raw HTML omitted --&gt;Hugo&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Updated 17/01/2020, from Korea, Korea&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Notice</title>
-      <link>http://localhost:1313/notice/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/notice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>취향의 고백</title>
-      <link>http://localhost:1313/front/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <author>k8hyun@gmail.com (흐름)</author>
-      <guid>http://localhost:1313/front/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/R-kFisSOi6emwdKg7aQ2-Uw_lC1SJRxneymyMt-4aZy4uWISTOlYL-eCD79SQZ25AuykqiWxP8xwYdoYrow=s440-rw&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
